@@ -137,7 +137,7 @@ public class SaveManager : MonoBehaviour
     }
     public string EncryptDecrypt(string data)
     {
-        string key = "default"; 
+        string key = "defaults"; 
         string result = "";
         for (int i = 0; i < data.Length; i++)
         {
