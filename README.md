@@ -1,1 +1,5 @@
-  [![Watch the Gameplay](https://img.youtube.com/vi/-S32AkZSGYU?si=yH-IgqpWC36aGWcd/0.jpg)](https://www.youtube.com/watch?v=-S32AkZSGYU?si=yH-IgqpWC36aGWcd)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=-S32AkZSGYU">
+    <img src="https://img.youtube.com/vi/-S32AkZSGYU/maxresdefault.jpg" alt="Watch the Gameplay" width="700">
+  </a>
+</p>
