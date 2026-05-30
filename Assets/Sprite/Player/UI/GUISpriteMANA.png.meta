@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 803bc4bf392361d40aebe81926330688
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -64168986478709902
+    second: GUISpriteMANA_0
+  - first:
+      213: -7013982032685358094
+    second: GUISpriteMANA_1
+  - first:
+      213: 1308645528930327158
+    second: GUISpriteMANA_2
+  - first:
+      213: -3671333611423413862
+    second: GUISpriteMANA_3
+  - first:
+      213: 111894427508441260
+    second: GUISpriteMANA_4
+  - first:
+      213: 7971739897262432415
+    second: GUISpriteMANA_5
+  - first:
+      213: 6110126061161807415
+    second: GUISpriteMANA_6
+  - first:
+      213: 3258574095302243190
+    second: GUISpriteMANA_7
+  - first:
+      213: -8950900021363020591
+    second: GUISpriteMANA_8
+  - first:
+      213: -4000552023867234206
+    second: GUISpriteMANA_9
+  - first:
+      213: -8654363529184842639
+    second: GUISpriteMANA_10
+  - first:
+      213: 4062893430492398060
+    second: GUISpriteMANA_11
+  - first:
+      213: -4567973915625478788
+    second: GUISpriteMANA_12
+  - first:
+      213: -7494808323234518918
+    second: GUISpriteMANA_13
+  - first:
+      213: 7658105935074987509
+    second: GUISpriteMANA_14
+  - first:
+      213: 1561391974399125650
+    second: GUISpriteMANA_15
+  - first:
+      213: 4454342264260282321
+    second: GUISpriteMANA_16
+  - first:
+      213: 5066542321978197409
+    second: GUISpriteMANA_17
+  - first:
+      213: 4413214901365040372
+    second: GUISpriteMANA_18
+  - first:
+      213: -4724036050554336842
+    second: GUISpriteMANA_19
+  - first:
+      213: -3005533237106169189
+    second: GUISpriteMANA_20
+  - first:
+      213: 909636325192899974
+    second: GUISpriteMANA_21
+  - first:
+      213: 7908540288067110525
+    second: GUISpriteMANA_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GUISpriteMANA_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 191
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273f65395a60c1ff0800000000000000
+      internalID: -64168986478709902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUISpriteMANA_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 159
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f321d0c08459ae90800000000000000
+      internalID: -7013982032685358094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUISpriteMANA_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 143
+        width: 11
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a9bc0dc2e392210800000000000000
+      internalID: 1308645528930327158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUISpriteMANA_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 143
+        width: 11
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99c72f288dcc0dc0800000000000000
+      internalID: -3671333611423413862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUISpriteMANA_4
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 161
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca08cf393678d8100800000000000000
+      internalID: 111894427508441260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUISpriteMANA_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 178
+        width: 66
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90e222533f41ae60800000000000000
+      internalID: 7971739897262432415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUISpriteMANA_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 163
+        width: 66
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ef760a7478bc450800000000000000
+      internalID: 6110126061161807415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUISpriteMANA_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 147
+        width: 61
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673b7c000e7c83d20800000000000000
+      internalID: 3258574095302243190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUISpriteMANA_8
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 145
+        width: 66
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcee9ebad308c380800000000000000
+      internalID: -8950900021363020591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUISpriteMANA_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 131
+        width: 61
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2686cef412f2b78c0800000000000000
+      internalID: -4000552023867234206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUISpriteMANA_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 130
+        width: 66
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c67d5193685e780800000000000000
+      internalID: -8654363529184842639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUISpriteMANA_11
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 84
+        width: 11
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce184c48c0c426830800000000000000
+      internalID: 4062893430492398060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUISpriteMANA_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 84
+        width: 11
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75a4e70deb4b90c0800000000000000
+      internalID: -4567973915625478788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUISpriteMANA_13
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 127
+        width: 66
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7827f90a871df790800000000000000
+      internalID: -7494808323234518918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUISpriteMANA_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 95
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd847806ce074a60800000000000000
+      internalID: 7658105935074987509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUISpriteMANA_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 95
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298a4356abd2ba510800000000000000
+      internalID: 1561391974399125650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUISpriteMANA_16
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 111
+        width: 74
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d74e3170b001dd30800000000000000
+      internalID: 4454342264260282321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUISpriteMANA_17
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 115
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a54efce569ff4640800000000000000
+      internalID: 5066542321978197409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUISpriteMANA_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 66
+        width: 80
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4e2511293ee3d30800000000000000
+      internalID: 4413214901365040372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUISpriteMANA_19
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 80
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9c194bd3ad07eb0800000000000000
+      internalID: -4724036050554336842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUISpriteMANA_20
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 5
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a28a1e1733a46d0800000000000000
+      internalID: -3005533237106169189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUISpriteMANA_21
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 15
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d1ae51b6daf9c00800000000000000
+      internalID: 909636325192899974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUISpriteMANA_22
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 19
+        width: 75
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d760b12ad77c0cd60800000000000000
+      internalID: 7908540288067110525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GUISpriteMANA_0: -64168986478709902
+      GUISpriteMANA_1: -7013982032685358094
+      GUISpriteMANA_10: -8654363529184842639
+      GUISpriteMANA_11: 4062893430492398060
+      GUISpriteMANA_12: -4567973915625478788
+      GUISpriteMANA_13: -7494808323234518918
+      GUISpriteMANA_14: 7658105935074987509
+      GUISpriteMANA_15: 1561391974399125650
+      GUISpriteMANA_16: 4454342264260282321
+      GUISpriteMANA_17: 5066542321978197409
+      GUISpriteMANA_18: 4413214901365040372
+      GUISpriteMANA_19: -4724036050554336842
+      GUISpriteMANA_2: 1308645528930327158
+      GUISpriteMANA_20: -3005533237106169189
+      GUISpriteMANA_21: 909636325192899974
+      GUISpriteMANA_22: 7908540288067110525
+      GUISpriteMANA_3: -3671333611423413862
+      GUISpriteMANA_4: 111894427508441260
+      GUISpriteMANA_5: 7971739897262432415
+      GUISpriteMANA_6: 6110126061161807415
+      GUISpriteMANA_7: 3258574095302243190
+      GUISpriteMANA_8: -8950900021363020591
+      GUISpriteMANA_9: -4000552023867234206
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

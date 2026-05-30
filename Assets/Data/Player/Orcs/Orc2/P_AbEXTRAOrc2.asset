@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 622bc6edb8f5f16408cbedcf80b76d4d, type: 3}
+  m_Name: P_AbEXTRAOrc2
+  m_EditorClassIdentifier: Assembly-CSharp::AbSlimeZombie2
+  cooldown: 4
+  damage: 20
+  range: 1
+  speed: 0
+  manaPerAttack: 2
+  offset: 1
+  executeAnimator: 1
+  layerAttack:
+    serializedVersion: 2
+    m_Bits: 256
+  setAbilitySFX:
+    attackLaunch_Clip: {fileID: 8300000, guid: 3922f0ef78fb92f4592ac1d9041add4b, type: 3}
+    attackImpact_Clip: {fileID: 8300000, guid: b4986d7be988a664586b913f60e777d3, type: 3}
+    attackLoop_Clip: {fileID: 0}
+  strenghtKnockback: 0

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2d342af07e37b944b6e5170f0c2fc84, type: 3}
+  m_Name: P_Skeleton
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerSO
+  icon: {fileID: 5167949729299656357, guid: 8b0ec25c69005c94480b5cab9a5ed697, type: 3}
+  runtimeAnimatorController: {fileID: 22100000, guid: 3d0860cdb23b57d44a0dd2ed30710573, type: 2}
+  speedWalk: 3
+  speedRun: 6
+  maxHealth: 55
+  maxMana: 25
+  colliderOffset: {x: 0.000001907349, y: -0.07364482}
+  colliderSize: {x: 0.5369072, y: 1.072598}
+  capsuleDirection: 0
+  abilities:
+  - {fileID: 11400000, guid: 095747a97c6bad14684f5743fea1c7c3, type: 2}
+  iconUI: {fileID: 22100000, guid: b2c636737eb029b4589d4cb9285dc574, type: 2}
+  setSizeIcon:
+    needSetSizeCanvasIcon: 0
+    size: {x: 0, y: 0}
+    x: 0
+    y: 0
+    needSetSizeHealthBarMini: 0
+    healthy: 0
+  setSFX:
+    walk_Clip: {fileID: 8300000, guid: e9f4231e4d76155448176472f2e56dd6, type: 3}
+    run_Clip: {fileID: 8300000, guid: 5e9f3c137b3a9a0499f927749757e7c0, type: 3}
+    death_Clip: {fileID: 8300000, guid: 3e61e3fb3ff5c7a4bb69dd81b8adece2, type: 3}
+    hurt_Clip: {fileID: 8300000, guid: 8a988de774300954d925379a52166b2e, type: 3}
+  idCharacter: 10

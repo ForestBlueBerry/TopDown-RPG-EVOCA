@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8c7d9a7585b68e45b521186c58f3aeb, type: 3}
+  m_Name: Slime6Ab
+  m_EditorClassIdentifier: Assembly-CSharp::AbSlimeAttack
+  nameAbility: 
+  cooldown: 1.5
+  distanceBeforeAttack: 0.8
+  attackDurationStun: 0
+  offset: 0.3
+  range: 0.95
+  speed: 0
+  damage: 13
+  setAbilitySFXEnemy:
+    attackLaunch_Clip: {fileID: 8300000, guid: aac34f5aad6f97d4bae68fe54fc5ac98, type: 3}
+    attackImpact_Clip: {fileID: 8300000, guid: 01e93d7e86089b54eb525dc54dddd682, type: 3}
+    attackLoop_Clip: {fileID: 0}

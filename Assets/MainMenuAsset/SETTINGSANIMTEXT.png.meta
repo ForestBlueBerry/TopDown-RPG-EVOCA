@@ -1,0 +1,542 @@
+fileFormatVersion: 2
+guid: 5c5a3cc7bb464b049b7439d0e4a69635
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4680196442249254811
+    second: SETTINGSANIMTEXT_0
+  - first:
+      213: -905582502350324723
+    second: SETTINGSANIMTEXT_1
+  - first:
+      213: 250239757841927005
+    second: SETTINGSANIMTEXT_2
+  - first:
+      213: -7884613736800410905
+    second: SETTINGSANIMTEXT_3
+  - first:
+      213: -4643301677594930524
+    second: SETTINGSANIMTEXT_4
+  - first:
+      213: -8370754013959925384
+    second: SETTINGSANIMTEXT_5
+  - first:
+      213: -3565290531339322712
+    second: SETTINGSANIMTEXT_6
+  - first:
+      213: 43854642128394492
+    second: SETTINGSANIMTEXT_7
+  - first:
+      213: 8524520760702188884
+    second: SETTINGSANIMTEXT_8
+  - first:
+      213: 8381928055240533559
+    second: SETTINGSANIMTEXT_9
+  - first:
+      213: 6514470198822584800
+    second: SETTINGSANIMTEXT_10
+  - first:
+      213: 5410546428605156301
+    second: SETTINGSANIMTEXT_11
+  - first:
+      213: 2204623538546733564
+    second: SETTINGSANIMTEXT_12
+  - first:
+      213: -2785519833648155729
+    second: SETTINGSANIMTEXT_13
+  - first:
+      213: -6404940460997850772
+    second: SETTINGSANIMTEXT_14
+  - first:
+      213: 3264730565668311211
+    second: SETTINGSANIMTEXT_15
+  - first:
+      213: 2680918348295958670
+    second: SETTINGSANIMTEXT_16
+  - first:
+      213: -3578251432044797153
+    second: SETTINGSANIMTEXT_17
+  - first:
+      213: -5166981559472026703
+    second: SETTINGSANIMTEXT_18
+  - first:
+      213: -4229761052978193177
+    second: SETTINGSANIMTEXT_19
+  - first:
+      213: -8209068759789783139
+    second: SETTINGSANIMTEXT_20
+  - first:
+      213: 1247467285400591803
+    second: SETTINGSANIMTEXT_21
+  - first:
+      213: -829217691390429643
+    second: SETTINGSANIMTEXT_22
+  - first:
+      213: 2581868576009474635
+    second: SETTINGSANIMTEXT_23
+  - first:
+      213: -1239955685410706084
+    second: SETTINGSANIMTEXT_24
+  - first:
+      213: 1105778269190246014
+    second: SETTINGSANIMTEXT_25
+  - first:
+      213: -184375349520289551
+    second: SETTINGSANIMTEXT_26
+  - first:
+      213: 7489432713542137507
+    second: SETTINGSANIMTEXT_27
+  - first:
+      213: -6042328743202972809
+    second: SETTINGSANIMTEXT_28
+  - first:
+      213: 891716771679252640
+    second: SETTINGSANIMTEXT_29
+  - first:
+      213: -1139424467991425728
+    second: SETTINGSANIMTEXT_30
+  - first:
+      213: 8368552703781572608
+    second: SETTINGSANIMTEXT_31
+  - first:
+      213: 5120012182550849578
+    second: SETTINGSANIMTEXT_32
+  - first:
+      213: 1801825323398295308
+    second: SETTINGSANIMTEXT_33
+  - first:
+      213: 7510366167890739547
+    second: SETTINGSANIMTEXT_34
+  - first:
+      213: -2425873898948597460
+    second: SETTINGSANIMTEXT_35
+  - first:
+      213: -2723676077972828345
+    second: SETTINGSANIMTEXT_36
+  - first:
+      213: 5246128159613196793
+    second: SETTINGSANIMTEXT_37
+  - first:
+      213: -6459271961026170720
+    second: SETTINGSANIMTEXT_38
+  - first:
+      213: -2661739338643174653
+    second: SETTINGSANIMTEXT_39
+  - first:
+      213: -5752559236344165011
+    second: SETTINGSANIMTEXT_40
+  - first:
+      213: -3447512875521485068
+    second: SETTINGSANIMTEXT_41
+  - first:
+      213: 8758868782363887877
+    second: SETTINGSANIMTEXT_42
+  - first:
+      213: 5083709399456989595
+    second: SETTINGSANIMTEXT_43
+  - first:
+      213: -6789883011470692283
+    second: SETTINGSANIMTEXT_44
+  - first:
+      213: 5078829239337493800
+    second: SETTINGSANIMTEXT_45
+  - first:
+      213: -5322148179016168155
+    second: SETTINGSANIMTEXT_46
+  - first:
+      213: -2226198129792814145
+    second: SETTINGSANIMTEXT_47
+  - first:
+      213: -6353568916323038884
+    second: SETTINGSANIMTEXT_48
+  - first:
+      213: -6831408251016134735
+    second: SETTINGSANIMTEXT_49
+  - first:
+      213: 6623950811735195872
+    second: SETTINGSANIMTEXT_50
+  - first:
+      213: -8835835350041795457
+    second: SETTINGSANIMTEXT_51
+  - first:
+      213: 1569613646406336786
+    second: SETTINGSANIMTEXT_52
+  - first:
+      213: 2833521298431292823
+    second: SETTINGSANIMTEXT_53
+  - first:
+      213: -4575116354330967606
+    second: SETTINGSANIMTEXT_54
+  - first:
+      213: 3191750963226975950
+    second: SETTINGSANIMTEXT_55
+  - first:
+      213: -3191040891403706156
+    second: SETTINGSANIMTEXT_56
+  - first:
+      213: -3362698559994489953
+    second: SETTINGSANIMTEXT_57
+  - first:
+      213: 6271868696299591535
+    second: SETTINGSANIMTEXT_58
+  - first:
+      213: -8191736265313320589
+    second: SETTINGSANIMTEXT_59
+  - first:
+      213: 7289837217837290946
+    second: SETTINGSANIMTEXT_60
+  - first:
+      213: 2437851651910535133
+    second: SETTINGSANIMTEXT_61
+  - first:
+      213: 4235617628662412815
+    second: SETTINGSANIMTEXT_62
+  - first:
+      213: 7981953765007210399
+    second: SETTINGSANIMTEXT_63
+  - first:
+      213: 7658898362986098498
+    second: SETTINGSANIMTEXT_64
+  - first:
+      213: 5762706612509524467
+    second: SETTINGSANIMTEXT_65
+  - first:
+      213: 7536584813649539201
+    second: SETTINGSANIMTEXT_66
+  - first:
+      213: 7714914715366563749
+    second: SETTINGSANIMTEXT_67
+  - first:
+      213: -2529096426661089835
+    second: SETTINGSANIMTEXT_68
+  - first:
+      213: -555789103817060701
+    second: SETTINGSANIMTEXT_69
+  - first:
+      213: -561850713895999282
+    second: SETTINGSANIMTEXT_70
+  - first:
+      213: -7333012587303872040
+    second: SETTINGSANIMTEXT_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SETTINGSANIMTEXT_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 451
+        width: 287
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9750531ed563f040800000000000000
+      internalID: 4680196442249254811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SETTINGSANIMTEXT_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 393
+        width: 287
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c79981389be63f0800000000000000
+      internalID: -905582502350324723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SETTINGSANIMTEXT_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 346
+        width: 287
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b09d2ebb7097300800000000000000
+      internalID: 250239757841927005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SETTINGSANIMTEXT_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 291
+        width: 287
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2a8d2b499349290800000000000000
+      internalID: -7884613736800410905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SETTINGSANIMTEXT_4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 232
+        width: 287
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a29af9b9bdaf8fb0800000000000000
+      internalID: -4643301677594930524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SETTINGSANIMTEXT_5
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 181
+        width: 287
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8715ebf039b15db80800000000000000
+      internalID: -8370754013959925384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SETTINGSANIMTEXT_6
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 127
+        width: 287
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aab476c62b858ec0800000000000000
+      internalID: -3565290531339322712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SETTINGSANIMTEXT_7
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 76
+        width: 287
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf890dd809dcb9000800000000000000
+      internalID: 43854642128394492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SETTINGSANIMTEXT_8
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 29
+        width: 287
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69d5b61024835342bdee322fa1313b6
+      internalID: 8524520760702188884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ddf988ab74212134d8c2b2ec6ab345dc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":400.0,"y":60.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      SETTINGSANIMTEXT_0: 4680196442249254811
+      SETTINGSANIMTEXT_1: -905582502350324723
+      SETTINGSANIMTEXT_2: 250239757841927005
+      SETTINGSANIMTEXT_3: -7884613736800410905
+      SETTINGSANIMTEXT_4: -4643301677594930524
+      SETTINGSANIMTEXT_5: -8370754013959925384
+      SETTINGSANIMTEXT_6: -3565290531339322712
+      SETTINGSANIMTEXT_7: 43854642128394492
+      SETTINGSANIMTEXT_8: 8524520760702188884
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

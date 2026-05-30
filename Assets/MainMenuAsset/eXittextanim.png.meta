@@ -1,0 +1,434 @@
+fileFormatVersion: 2
+guid: 19728f4c0e153f04eae384a7ab7dafe1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2213705108969649679
+    second: eXittextanim_0
+  - first:
+      213: 3247344407785215007
+    second: eXittextanim_1
+  - first:
+      213: -4424581641102535759
+    second: eXittextanim_2
+  - first:
+      213: 3219629728398247646
+    second: eXittextanim_3
+  - first:
+      213: 3206147525326541307
+    second: eXittextanim_4
+  - first:
+      213: -1207256817041958664
+    second: eXittextanim_5
+  - first:
+      213: -3757401718209844765
+    second: eXittextanim_6
+  - first:
+      213: 4253789416300246668
+    second: eXittextanim_7
+  - first:
+      213: -6467001617435207292
+    second: eXittextanim_8
+  - first:
+      213: 5353391044024909982
+    second: eXittextanim_9
+  - first:
+      213: 1616731349749590982
+    second: eXittextanim_10
+  - first:
+      213: -325376862264608904
+    second: eXittextanim_11
+  - first:
+      213: 8582199489350808647
+    second: eXittextanim_12
+  - first:
+      213: -1290291893031516785
+    second: eXittextanim_13
+  - first:
+      213: -2552610660823898625
+    second: eXittextanim_14
+  - first:
+      213: -158416782194107536
+    second: eXittextanim_15
+  - first:
+      213: 6969937583994886395
+    second: eXittextanim_16
+  - first:
+      213: 2919931085937944847
+    second: eXittextanim_17
+  - first:
+      213: 6351310770402388649
+    second: eXittextanim_18
+  - first:
+      213: -1619580928226128407
+    second: eXittextanim_19
+  - first:
+      213: -6691324653938283510
+    second: eXittextanim_20
+  - first:
+      213: 2489359205785318337
+    second: eXittextanim_21
+  - first:
+      213: 8986032230143036986
+    second: eXittextanim_22
+  - first:
+      213: -4943107441251487397
+    second: eXittextanim_23
+  - first:
+      213: 3141162810603601729
+    second: eXittextanim_24
+  - first:
+      213: 7301187510528451616
+    second: eXittextanim_25
+  - first:
+      213: 221776353018350192
+    second: eXittextanim_26
+  - first:
+      213: -4059013464585246338
+    second: eXittextanim_27
+  - first:
+      213: 2301085623191420205
+    second: eXittextanim_28
+  - first:
+      213: -1898694934450162397
+    second: eXittextanim_29
+  - first:
+      213: 1418677849856354157
+    second: eXittextanim_30
+  - first:
+      213: 6683123759228291169
+    second: eXittextanim_31
+  - first:
+      213: 8502425626409171265
+    second: eXittextanim_32
+  - first:
+      213: 8189543490145883672
+    second: eXittextanim_33
+  - first:
+      213: -4920843323344655818
+    second: eXittextanim_34
+  - first:
+      213: -2648159709193349205
+    second: eXittextanim_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eXittextanim_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 441
+        width: 128
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f067a916119a8be10800000000000000
+      internalID: 2213705108969649679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eXittextanim_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 387
+        width: 128
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f149361a882e01d20800000000000000
+      internalID: 3247344407785215007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eXittextanim_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 335
+        width: 128
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b35e5a907ab892c0800000000000000
+      internalID: -4424581641102535759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eXittextanim_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 279
+        width: 128
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6077dfd2c6eac20800000000000000
+      internalID: 3219629728398247646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eXittextanim_4
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 225
+        width: 128
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf11698ff268e7c20800000000000000
+      internalID: 3206147525326541307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eXittextanim_5
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 167
+        width: 128
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f89b8b3256fe3fe0800000000000000
+      internalID: -1207256817041958664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eXittextanim_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 119
+        width: 128
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9e8ab7b070bdbc0800000000000000
+      internalID: -3757401718209844765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eXittextanim_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 68
+        width: 128
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8674e3cfee780b30800000000000000
+      internalID: 4253789416300246668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eXittextanim_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 15
+        width: 128
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70aa57f6ec100f84dbc9b6ac54a998b3
+      internalID: -6467001617435207292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: df64d9440b5d87346905c7f0b5027004
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":271.0,"y":55.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      eXittextanim_0: 2213705108969649679
+      eXittextanim_1: 3247344407785215007
+      eXittextanim_2: -4424581641102535759
+      eXittextanim_3: 3219629728398247646
+      eXittextanim_4: 3206147525326541307
+      eXittextanim_5: -1207256817041958664
+      eXittextanim_6: -3757401718209844765
+      eXittextanim_7: 4253789416300246668
+      eXittextanim_8: -6467001617435207292
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

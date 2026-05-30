@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 757b7b8e1db232c408ffaa5608b0d603, type: 3}
+  m_Name: BossABilka
+  m_EditorClassIdentifier: Assembly-CSharp::BossAB
+  nameAbility: tesa
+  cooldown: 0.8
+  distanceBeforeAttack: 1.3
+  attackDurationStun: 0.5
+  offset: 1.6
+  range: 1.6
+  speed: 0
+  damage: 20
+  setAbilitySFXEnemy:
+    attackLaunch_Clip: {fileID: 8300000, guid: f2dd60a9c128c884a8406b07cb5b800f, type: 3}
+    attackImpact_Clip: {fileID: 8300000, guid: d68b941c4f373b5429632bb018efaf84, type: 3}
+    attackLoop_Clip: {fileID: 0}
+  strenghtResist: 222
+  knockbackTimer: 0.2

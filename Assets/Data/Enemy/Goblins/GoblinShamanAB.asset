@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e204f8f9c6e2314b8b0ca4abfaba269, type: 3}
+  m_Name: GoblinShamanAB
+  m_EditorClassIdentifier: Assembly-CSharp::AbLittleDemonFireBall
+  nameAbility: 
+  cooldown: 2
+  distanceBeforeAttack: 6
+  attackDurationStun: 0
+  offset: 1.1
+  range: 7
+  speed: 6
+  damage: 15
+  setAbilitySFXEnemy:
+    attackLaunch_Clip: {fileID: 8300000, guid: efa944244d9bed54e80ca7a99e96af21, type: 3}
+    attackImpact_Clip: {fileID: 8300000, guid: 094bafc69ff53c544be8f2276f830343, type: 3}
+    attackLoop_Clip: {fileID: 8300000, guid: 4ddd2e1d33883f749b8ccaef4640d1a1, type: 3}
+  projectile: {fileID: 445770563665363985, guid: c22537b6f5a9c6f488ecd02f70682a00, type: 3}

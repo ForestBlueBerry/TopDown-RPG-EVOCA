@@ -1,0 +1,2113 @@
+fileFormatVersion: 2
+guid: 169dbaf6ba968fd49880fe5d982e13ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1543195189299569986
+    second: one_eye_scout-Sheet_0
+  - first:
+      213: -5101060817362426115
+    second: one_eye_scout-Sheet_1
+  - first:
+      213: -7853171766182740121
+    second: one_eye_scout-Sheet_2
+  - first:
+      213: -4361328273398241533
+    second: one_eye_scout-Sheet_3
+  - first:
+      213: -3865090735359728418
+    second: one_eye_scout-Sheet_4
+  - first:
+      213: -2198198775693229416
+    second: one_eye_scout-Sheet_5
+  - first:
+      213: -4971180803595703977
+    second: one_eye_scout-Sheet_6
+  - first:
+      213: 5576341949935366764
+    second: one_eye_scout-Sheet_7
+  - first:
+      213: -3409828740545816903
+    second: one_eye_scout-Sheet_8
+  - first:
+      213: 5255628898200331371
+    second: one_eye_scout-Sheet_9
+  - first:
+      213: 3981925398650583133
+    second: one_eye_scout-Sheet_10
+  - first:
+      213: -7619556356877389529
+    second: one_eye_scout-Sheet_11
+  - first:
+      213: -5757662128212178226
+    second: one_eye_scout-Sheet_12
+  - first:
+      213: -861561511175681069
+    second: one_eye_scout-Sheet_13
+  - first:
+      213: -8163729273182352997
+    second: one_eye_scout-Sheet_14
+  - first:
+      213: -348359220145484995
+    second: one_eye_scout-Sheet_15
+  - first:
+      213: 5853104748733572652
+    second: one_eye_scout-Sheet_16
+  - first:
+      213: 4419359885690757225
+    second: one_eye_scout-Sheet_17
+  - first:
+      213: 519310788011527304
+    second: one_eye_scout-Sheet_18
+  - first:
+      213: 5802550590911979839
+    second: one_eye_scout-Sheet_19
+  - first:
+      213: 6508344504715851033
+    second: one_eye_scout-Sheet_20
+  - first:
+      213: 8715191601048563423
+    second: one_eye_scout-Sheet_21
+  - first:
+      213: -7096097453949825106
+    second: one_eye_scout-Sheet_22
+  - first:
+      213: 5362397440260248126
+    second: one_eye_scout-Sheet_23
+  - first:
+      213: -7639355051894667754
+    second: one_eye_scout-Sheet_24
+  - first:
+      213: -1636887926845293660
+    second: one_eye_scout-Sheet_25
+  - first:
+      213: -1292402506834011363
+    second: one_eye_scout-Sheet_26
+  - first:
+      213: 4069514147351350043
+    second: one_eye_scout-Sheet_27
+  - first:
+      213: 7013551906458912569
+    second: one_eye_scout-Sheet_28
+  - first:
+      213: 8230479014313177448
+    second: one_eye_scout-Sheet_29
+  - first:
+      213: 7449120427747993531
+    second: one_eye_scout-Sheet_30
+  - first:
+      213: 3581231886308829646
+    second: one_eye_scout-Sheet_31
+  - first:
+      213: 367525636573978937
+    second: one_eye_scout-Sheet_32
+  - first:
+      213: 7626181175592786007
+    second: one_eye_scout-Sheet_33
+  - first:
+      213: -1846750147533439311
+    second: one_eye_scout-Sheet_34
+  - first:
+      213: 6685017574182258532
+    second: one_eye_scout-Sheet_35
+  - first:
+      213: -6102422143206130465
+    second: one_eye_scout-Sheet_36
+  - first:
+      213: -2245319022450399051
+    second: one_eye_scout-Sheet_37
+  - first:
+      213: -2077449997552699662
+    second: one_eye_scout-Sheet_38
+  - first:
+      213: -7215110317002806937
+    second: one_eye_scout-Sheet_39
+  - first:
+      213: 5089194023853258323
+    second: one_eye_scout-Sheet_40
+  - first:
+      213: 1969976699699943920
+    second: one_eye_scout-Sheet_41
+  - first:
+      213: 1773737029694102766
+    second: one_eye_scout-Sheet_42
+  - first:
+      213: 4803262591511868695
+    second: one_eye_scout-Sheet_43
+  - first:
+      213: 6608771284093541598
+    second: one_eye_scout-Sheet_44
+  - first:
+      213: -6591861355145635920
+    second: one_eye_scout-Sheet_45
+  - first:
+      213: -6737467509608720426
+    second: one_eye_scout-Sheet_46
+  - first:
+      213: 7107324578375030559
+    second: one_eye_scout-Sheet_47
+  - first:
+      213: 8548881350958918213
+    second: one_eye_scout-Sheet_48
+  - first:
+      213: -1460857308949336265
+    second: one_eye_scout-Sheet_49
+  - first:
+      213: 2197779367045897931
+    second: one_eye_scout-Sheet_50
+  - first:
+      213: -8104456257700613764
+    second: one_eye_scout-Sheet_51
+  - first:
+      213: 481548547572371975
+    second: one_eye_scout-Sheet_52
+  - first:
+      213: -1692705154712738655
+    second: one_eye_scout-Sheet_53
+  - first:
+      213: -6656222966516761114
+    second: one_eye_scout-Sheet_54
+  - first:
+      213: -5506994552662044831
+    second: one_eye_scout-Sheet_55
+  - first:
+      213: -4619473473987832772
+    second: one_eye_scout-Sheet_56
+  - first:
+      213: 6526159827231138901
+    second: one_eye_scout-Sheet_57
+  - first:
+      213: -9176295228508865646
+    second: one_eye_scout-Sheet_58
+  - first:
+      213: -5246227607109528849
+    second: one_eye_scout-Sheet_59
+  - first:
+      213: -3803097659221493489
+    second: one_eye_scout-Sheet_60
+  - first:
+      213: 6511799329897364829
+    second: one_eye_scout-Sheet_61
+  - first:
+      213: -921890509029286525
+    second: one_eye_scout-Sheet_62
+  - first:
+      213: 5254766716908378989
+    second: one_eye_scout-Sheet_63
+  - first:
+      213: -27120786020391790
+    second: one_eye_scout-Sheet_64
+  - first:
+      213: -7751978418547559992
+    second: one_eye_scout-Sheet_65
+  - first:
+      213: -6387238621891438842
+    second: one_eye_scout-Sheet_66
+  - first:
+      213: 74410606109442588
+    second: one_eye_scout-Sheet_67
+  - first:
+      213: 8971107985647285041
+    second: one_eye_scout-Sheet_68
+  - first:
+      213: -1892866723077277474
+    second: one_eye_scout-Sheet_69
+  - first:
+      213: 8462009976625956252
+    second: one_eye_scout-Sheet_70
+  - first:
+      213: -7743134838016446220
+    second: one_eye_scout-Sheet_71
+  - first:
+      213: -8785922686388057063
+    second: one_eye_scout-Sheet_72
+  - first:
+      213: 2852534456800223359
+    second: one_eye_scout-Sheet_73
+  - first:
+      213: 4978815172348138345
+    second: one_eye_scout-Sheet_74
+  - first:
+      213: 7961255157320151371
+    second: one_eye_scout-Sheet_75
+  - first:
+      213: 8720694548482282224
+    second: one_eye_scout-Sheet_76
+  - first:
+      213: -5769574974384685851
+    second: one_eye_scout-Sheet_77
+  - first:
+      213: -2078821246115489803
+    second: one_eye_scout-Sheet_78
+  - first:
+      213: -1094689013115043178
+    second: one_eye_scout-Sheet_79
+  - first:
+      213: -4337244966742384995
+    second: one_eye_scout-Sheet_80
+  - first:
+      213: 2211670251349808976
+    second: one_eye_scout-Sheet_81
+  - first:
+      213: -5392151900856739462
+    second: one_eye_scout-Sheet_82
+  - first:
+      213: 5486804827034345539
+    second: one_eye_scout-Sheet_83
+  - first:
+      213: -4605985740688329036
+    second: one_eye_scout-Sheet_84
+  - first:
+      213: 2002376158132987188
+    second: one_eye_scout-Sheet_85
+  - first:
+      213: 8904521078748669922
+    second: one_eye_scout-Sheet_86
+  - first:
+      213: 6585974576532532780
+    second: one_eye_scout-Sheet_87
+  - first:
+      213: 596830289542924265
+    second: one_eye_scout-Sheet_88
+  - first:
+      213: 7320603762902878375
+    second: one_eye_scout-Sheet_89
+  - first:
+      213: 9123003981115146253
+    second: one_eye_scout-Sheet_90
+  - first:
+      213: -6821957556539574042
+    second: one_eye_scout-Sheet_91
+  - first:
+      213: -4338631929158121475
+    second: one_eye_scout-Sheet_92
+  - first:
+      213: -7371244964353969167
+    second: one_eye_scout-Sheet_93
+  - first:
+      213: 2953994771486138723
+    second: one_eye_scout-Sheet_94
+  - first:
+      213: 1776351998819182579
+    second: one_eye_scout-Sheet_95
+  - first:
+      213: -7564075623594303529
+    second: one_eye_scout-Sheet_96
+  - first:
+      213: 4473532658597989438
+    second: one_eye_scout-Sheet_97
+  - first:
+      213: 3772296384523547497
+    second: one_eye_scout-Sheet_98
+  - first:
+      213: 626222285739292194
+    second: one_eye_scout-Sheet_99
+  - first:
+      213: -4393325582091616309
+    second: one_eye_scout-Sheet_100
+  - first:
+      213: -1742406581147297854
+    second: one_eye_scout-Sheet_101
+  - first:
+      213: 652941153100946223
+    second: one_eye_scout-Sheet_102
+  - first:
+      213: 4430133374055951547
+    second: one_eye_scout-Sheet_103
+  - first:
+      213: 4833617061424612858
+    second: one_eye_scout-Sheet_104
+  - first:
+      213: 1169595513283412053
+    second: one_eye_scout-Sheet_105
+  - first:
+      213: -5180004265425060727
+    second: one_eye_scout-Sheet_106
+  - first:
+      213: 1276773394581034170
+    second: one_eye_scout-Sheet_107
+  - first:
+      213: 7100713751638386650
+    second: one_eye_scout-Sheet_108
+  - first:
+      213: -4060053503758112791
+    second: one_eye_scout-Sheet_109
+  - first:
+      213: -3163725923997550285
+    second: one_eye_scout-Sheet_110
+  - first:
+      213: 9100157726028934067
+    second: one_eye_scout-Sheet_111
+  - first:
+      213: -5522569842756052781
+    second: one_eye_scout-Sheet_112
+  - first:
+      213: -133470143771296025
+    second: one_eye_scout-Sheet_113
+  - first:
+      213: -5928152445468054627
+    second: one_eye_scout-Sheet_114
+  - first:
+      213: -647264479925671969
+    second: one_eye_scout-Sheet_115
+  - first:
+      213: 74583591732888814
+    second: one_eye_scout-Sheet_116
+  - first:
+      213: 6294151741327224844
+    second: one_eye_scout-Sheet_117
+  - first:
+      213: -5856875387970258659
+    second: one_eye_scout-Sheet_118
+  - first:
+      213: -6730363674828506121
+    second: one_eye_scout-Sheet_119
+  - first:
+      213: 4410070902097615229
+    second: one_eye_scout-Sheet_120
+  - first:
+      213: -5786717595506119111
+    second: one_eye_scout-Sheet_121
+  - first:
+      213: -1742521300260953685
+    second: one_eye_scout-Sheet_122
+  - first:
+      213: -1080007895480302043
+    second: one_eye_scout-Sheet_123
+  - first:
+      213: 5350218055431322383
+    second: one_eye_scout-Sheet_124
+  - first:
+      213: 417757177322719835
+    second: one_eye_scout-Sheet_125
+  - first:
+      213: -6236847755195925764
+    second: one_eye_scout-Sheet_126
+  - first:
+      213: -495318296601008535
+    second: one_eye_scout-Sheet_127
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba15bac628759ae0800000000000000
+      internalID: -1543195189299569986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 640
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6e27396346539b0800000000000000
+      internalID: -5101060817362426115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 640
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ffc84f2ede30390800000000000000
+      internalID: -7853171766182740121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 640
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307ea3bea037973c0800000000000000
+      internalID: -4361328273398241533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 640
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4ea3e44707c5ac0800000000000000
+      internalID: -3865090735359728418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 640
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8924b1d2cdd6e71e0800000000000000
+      internalID: -2198198775693229416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 640
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759ef67c561d20bb0800000000000000
+      internalID: -4971180803595703977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 640
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62b1007575236d40800000000000000
+      internalID: 5576341949935366764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 640
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b659d693dadda0d0800000000000000
+      internalID: -3409828740545816903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 640
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64228c23aebfe840800000000000000
+      internalID: 5255628898200331371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d587cac8d04a24730800000000000000
+      internalID: 3981925398650583133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 512
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721f0421dd5e14690800000000000000
+      internalID: -7619556356877389529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 512
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca813fbccca810b0800000000000000
+      internalID: -5757662128212178226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 512
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db893ece5e1b04f0800000000000000
+      internalID: -861561511175681069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 512
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b990285ba7b94be80800000000000000
+      internalID: -8163729273182352997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 512
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b0ffc82216a2bf0800000000000000
+      internalID: -348359220145484995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 512
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26aa6502c76a3150800000000000000
+      internalID: 5853104748733572652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 512
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9606539b668b45d30800000000000000
+      internalID: 4419359885690757225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 512
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c84770966f43700800000000000000
+      internalID: 519310788011527304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 512
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31aa8ae40dc68050800000000000000
+      internalID: 5802550590911979839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 512
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915347728d8425a50800000000000000
+      internalID: 6508344504715851033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 512
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdea7f9069492f870800000000000000
+      internalID: 8715191601048563423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 512
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf44cd56f8958d90800000000000000
+      internalID: -7096097453949825106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 512
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e321d2b8f001b6a40800000000000000
+      internalID: 5362397440260248126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 512
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6168bba2e0f8bf590800000000000000
+      internalID: -7639355051894667754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 512
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abb2476a1b9849e0800000000000000
+      internalID: -1636887926845293660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 512
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b955974c6701ee0800000000000000
+      internalID: -1292402506834011363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 512
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bcd494e81d97830800000000000000
+      internalID: 4069514147351350043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 512
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9374f3eac44255160800000000000000
+      internalID: 7013551906458912569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 512
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861b17b7e09883270800000000000000
+      internalID: 8230479014313177448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb76609df87906760800000000000000
+      internalID: 7449120427747993531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 384
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec96db92d6713b130800000000000000
+      internalID: 3581231886308829646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 384
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93167d58e96b91500800000000000000
+      internalID: 367525636573978937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 384
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7589afbbf53a5d960800000000000000
+      internalID: 7626181175592786007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 384
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be7e5b76860f56e0800000000000000
+      internalID: -1846750147533439311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 384
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4678062a014f5cc50800000000000000
+      internalID: 6685017574182258532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 384
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc78bc8467df4ba0800000000000000
+      internalID: -6102422143206130465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 384
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8aa6bce3607d0e0800000000000000
+      internalID: -2245319022450399051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 384
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f63c39eb3a6b23e0800000000000000
+      internalID: -2077449997552699662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 384
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769aacbd467cedb90800000000000000
+      internalID: -7215110317002806937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 384
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35670d0400370a640800000000000000
+      internalID: 5089194023853258323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 384
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f95969fe53c65b10800000000000000
+      internalID: 1969976699699943920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec9fdb4e649d9810800000000000000
+      internalID: 1773737029694102766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 256
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715bcf1d0ed98a240800000000000000
+      internalID: 4803262591511868695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 256
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc9236d77217bb50800000000000000
+      internalID: 6608771284093541598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 256
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b75bedc5010584a0800000000000000
+      internalID: -6591861355145635920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 256
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d759042ff4bf72a0800000000000000
+      internalID: -6737467509608720426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 256
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17527d3c0a42a260800000000000000
+      internalID: 7107324578375030559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 256
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a2ed67b4ab3a670800000000000000
+      internalID: 8548881350958918213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 256
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73faa88740ef9bbe0800000000000000
+      internalID: -1460857308949336265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 256
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce1473a0b4108e10800000000000000
+      internalID: 2197779367045897931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 256
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71301e09ff278f80800000000000000
+      internalID: -8104456257700613764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 256
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70218284addcea600800000000000000
+      internalID: 481548547572371975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4efdf41ad4288e0800000000000000
+      internalID: -1692705154712738655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 128
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edb8f66a7850a3a0800000000000000
+      internalID: -6656222966516761114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 128
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f4194b1a93393b0800000000000000
+      internalID: -5506994552662044831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c349d95b95554efb0800000000000000
+      internalID: -4619473473987832772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554698929c3919a50800000000000000
+      internalID: 6526159827231138901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bfd969b1047a080800000000000000
+      internalID: -9176295228508865646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 0
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2936b79c7a137b0800000000000000
+      internalID: -5246227607109528849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09bbff14dea83bc0800000000000000
+      internalID: -3803097659221493489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 0
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5db8235dfe8e5a50800000000000000
+      internalID: 6511799329897364829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 0
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d51876779c433f0800000000000000
+      internalID: -921890509029286525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 0
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b9ed2fc7eace840800000000000000
+      internalID: 5254766716908378989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 0
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294a93fe9c5af9ff0800000000000000
+      internalID: -27120786020391790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 0
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c17af733b07b6490800000000000000
+      internalID: -7751978418547559992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 0
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607518e7058fb57a0800000000000000
+      internalID: -6387238621891438842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 0
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12cca05d0c580100800000000000000
+      internalID: 74410606109442588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 0
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1333d269e27cf7c70800000000000000
+      internalID: 8971107985647285041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one_eye_scout-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 0
+        width: 156
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed832d38ebf2bb5e0800000000000000
+      internalID: -1892866723077277474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8205c7a2959f67644a987271380f247a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":156.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      one_eye_scout-Sheet_0: -1543195189299569986
+      one_eye_scout-Sheet_1: -5101060817362426115
+      one_eye_scout-Sheet_10: 3981925398650583133
+      one_eye_scout-Sheet_11: -7619556356877389529
+      one_eye_scout-Sheet_12: -5757662128212178226
+      one_eye_scout-Sheet_13: -861561511175681069
+      one_eye_scout-Sheet_14: -8163729273182352997
+      one_eye_scout-Sheet_15: -348359220145484995
+      one_eye_scout-Sheet_16: 5853104748733572652
+      one_eye_scout-Sheet_17: 4419359885690757225
+      one_eye_scout-Sheet_18: 519310788011527304
+      one_eye_scout-Sheet_19: 5802550590911979839
+      one_eye_scout-Sheet_2: -7853171766182740121
+      one_eye_scout-Sheet_20: 6508344504715851033
+      one_eye_scout-Sheet_21: 8715191601048563423
+      one_eye_scout-Sheet_22: -7096097453949825106
+      one_eye_scout-Sheet_23: 5362397440260248126
+      one_eye_scout-Sheet_24: -7639355051894667754
+      one_eye_scout-Sheet_25: -1636887926845293660
+      one_eye_scout-Sheet_26: -1292402506834011363
+      one_eye_scout-Sheet_27: 4069514147351350043
+      one_eye_scout-Sheet_28: 7013551906458912569
+      one_eye_scout-Sheet_29: 8230479014313177448
+      one_eye_scout-Sheet_3: -4361328273398241533
+      one_eye_scout-Sheet_30: 7449120427747993531
+      one_eye_scout-Sheet_31: 3581231886308829646
+      one_eye_scout-Sheet_32: 367525636573978937
+      one_eye_scout-Sheet_33: 7626181175592786007
+      one_eye_scout-Sheet_34: -1846750147533439311
+      one_eye_scout-Sheet_35: 6685017574182258532
+      one_eye_scout-Sheet_36: -6102422143206130465
+      one_eye_scout-Sheet_37: -2245319022450399051
+      one_eye_scout-Sheet_38: -2077449997552699662
+      one_eye_scout-Sheet_39: -7215110317002806937
+      one_eye_scout-Sheet_4: -3865090735359728418
+      one_eye_scout-Sheet_40: 5089194023853258323
+      one_eye_scout-Sheet_41: 1969976699699943920
+      one_eye_scout-Sheet_42: 1773737029694102766
+      one_eye_scout-Sheet_43: 4803262591511868695
+      one_eye_scout-Sheet_44: 6608771284093541598
+      one_eye_scout-Sheet_45: -6591861355145635920
+      one_eye_scout-Sheet_46: -6737467509608720426
+      one_eye_scout-Sheet_47: 7107324578375030559
+      one_eye_scout-Sheet_48: 8548881350958918213
+      one_eye_scout-Sheet_49: -1460857308949336265
+      one_eye_scout-Sheet_5: -2198198775693229416
+      one_eye_scout-Sheet_50: 2197779367045897931
+      one_eye_scout-Sheet_51: -8104456257700613764
+      one_eye_scout-Sheet_52: 481548547572371975
+      one_eye_scout-Sheet_53: -1692705154712738655
+      one_eye_scout-Sheet_54: -6656222966516761114
+      one_eye_scout-Sheet_55: -5506994552662044831
+      one_eye_scout-Sheet_56: -4619473473987832772
+      one_eye_scout-Sheet_57: 6526159827231138901
+      one_eye_scout-Sheet_58: -9176295228508865646
+      one_eye_scout-Sheet_59: -5246227607109528849
+      one_eye_scout-Sheet_6: -4971180803595703977
+      one_eye_scout-Sheet_60: -3803097659221493489
+      one_eye_scout-Sheet_61: 6511799329897364829
+      one_eye_scout-Sheet_62: -921890509029286525
+      one_eye_scout-Sheet_63: 5254766716908378989
+      one_eye_scout-Sheet_64: -27120786020391790
+      one_eye_scout-Sheet_65: -7751978418547559992
+      one_eye_scout-Sheet_66: -6387238621891438842
+      one_eye_scout-Sheet_67: 74410606109442588
+      one_eye_scout-Sheet_68: 8971107985647285041
+      one_eye_scout-Sheet_69: -1892866723077277474
+      one_eye_scout-Sheet_7: 5576341949935366764
+      one_eye_scout-Sheet_8: -3409828740545816903
+      one_eye_scout-Sheet_9: 5255628898200331371
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

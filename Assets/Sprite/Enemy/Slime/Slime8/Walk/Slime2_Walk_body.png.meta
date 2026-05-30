@@ -1,0 +1,2613 @@
+fileFormatVersion: 2
+guid: f5e019649c4d8964bb40297289a50a46
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9139291906896133745
+    second: Slime2_Walk_body_0
+  - first:
+      213: -6924165867439620961
+    second: Slime2_Walk_body_1
+  - first:
+      213: -7864755508664210237
+    second: Slime2_Walk_body_2
+  - first:
+      213: -5036778135863885792
+    second: Slime2_Walk_body_3
+  - first:
+      213: 6654392931058736878
+    second: Slime2_Walk_body_4
+  - first:
+      213: 1476287931718879133
+    second: Slime2_Walk_body_5
+  - first:
+      213: -5962343851544236473
+    second: Slime2_Walk_body_6
+  - first:
+      213: 8116517322441649181
+    second: Slime2_Walk_body_7
+  - first:
+      213: -7461750632799675043
+    second: Slime2_Walk_body_8
+  - first:
+      213: 461584721524450602
+    second: Slime2_Walk_body_9
+  - first:
+      213: 7556397164378573827
+    second: Slime2_Walk_body_10
+  - first:
+      213: 4309071639418063411
+    second: Slime2_Walk_body_11
+  - first:
+      213: 1796189357455789304
+    second: Slime2_Walk_body_12
+  - first:
+      213: -2716963063460251605
+    second: Slime2_Walk_body_13
+  - first:
+      213: 4023423305014410117
+    second: Slime2_Walk_body_14
+  - first:
+      213: -4417424222420596246
+    second: Slime2_Walk_body_15
+  - first:
+      213: -5329626544115908091
+    second: Slime2_Walk_body_16
+  - first:
+      213: -4819079628336127422
+    second: Slime2_Walk_body_17
+  - first:
+      213: 3728320353834196178
+    second: Slime2_Walk_body_18
+  - first:
+      213: 8750813057664176131
+    second: Slime2_Walk_body_19
+  - first:
+      213: -7901797992060758315
+    second: Slime2_Walk_body_20
+  - first:
+      213: 8733853587193476616
+    second: Slime2_Walk_body_21
+  - first:
+      213: 2167757507682045614
+    second: Slime2_Walk_body_22
+  - first:
+      213: 4950233804670422654
+    second: Slime2_Walk_body_23
+  - first:
+      213: 8629320000551543158
+    second: Slime2_Walk_body_24
+  - first:
+      213: 3421536298738492443
+    second: Slime2_Walk_body_25
+  - first:
+      213: 3115474346810760464
+    second: Slime2_Walk_body_26
+  - first:
+      213: 6314121837752124868
+    second: Slime2_Walk_body_27
+  - first:
+      213: 6064263915600504729
+    second: Slime2_Walk_body_28
+  - first:
+      213: -326765811579609020
+    second: Slime2_Walk_body_29
+  - first:
+      213: -4431413275967147146
+    second: Slime2_Walk_body_30
+  - first:
+      213: 8986190235334180019
+    second: Slime2_Walk_body_31
+  - first:
+      213: 6977271166915096351
+    second: Slime2_Walk_body_32
+  - first:
+      213: 3377558512138133065
+    second: Slime2_Walk_body_33
+  - first:
+      213: 7711648977365445456
+    second: Slime2_Walk_body_34
+  - first:
+      213: 4632804676696292847
+    second: Slime2_Walk_body_35
+  - first:
+      213: 4842055053627153752
+    second: Slime2_Walk_body_36
+  - first:
+      213: 6884385250901875069
+    second: Slime2_Walk_body_37
+  - first:
+      213: 4790163482566094816
+    second: Slime2_Walk_body_38
+  - first:
+      213: -5716595578103056679
+    second: Slime2_Walk_body_39
+  - first:
+      213: -4106671203903164147
+    second: Slime2_Walk_body_40
+  - first:
+      213: 2820551204593238488
+    second: Slime2_Walk_body_41
+  - first:
+      213: 3700515767107071178
+    second: Slime2_Walk_body_42
+  - first:
+      213: -8206476439502195520
+    second: Slime2_Walk_body_43
+  - first:
+      213: 5391433342499843011
+    second: Slime2_Walk_body_44
+  - first:
+      213: 5980269941067885883
+    second: Slime2_Walk_body_45
+  - first:
+      213: -6944636435856444831
+    second: Slime2_Walk_body_46
+  - first:
+      213: -4667061873974376221
+    second: Slime2_Walk_body_47
+  - first:
+      213: -1786000126791582970
+    second: Slime2_Walk_body_48
+  - first:
+      213: 7934232739884766721
+    second: Slime2_Walk_body_49
+  - first:
+      213: -902997434504045299
+    second: Slime2_Walk_body_50
+  - first:
+      213: -6823438446401712375
+    second: Slime2_Walk_body_51
+  - first:
+      213: -1464497728086419130
+    second: Slime2_Walk_body_52
+  - first:
+      213: -3143364938413973139
+    second: Slime2_Walk_body_53
+  - first:
+      213: -6269692327238524099
+    second: Slime2_Walk_body_54
+  - first:
+      213: 6217805538564991897
+    second: Slime2_Walk_body_55
+  - first:
+      213: 3622619066341557310
+    second: Slime2_Walk_body_56
+  - first:
+      213: -9132583119983819348
+    second: Slime2_Walk_body_57
+  - first:
+      213: -1601963227809481017
+    second: Slime2_Walk_body_58
+  - first:
+      213: -8661026727348091800
+    second: Slime2_Walk_body_59
+  - first:
+      213: 2204617261463303948
+    second: Slime2_Walk_body_60
+  - first:
+      213: 2549276712035565677
+    second: Slime2_Walk_body_61
+  - first:
+      213: -6438288450868376867
+    second: Slime2_Walk_body_62
+  - first:
+      213: 2325264556405559162
+    second: Slime2_Walk_body_63
+  - first:
+      213: -7682919711215438235
+    second: Slime2_Walk_body_64
+  - first:
+      213: 512651893639018108
+    second: Slime2_Walk_body_65
+  - first:
+      213: 5978455590124846248
+    second: Slime2_Walk_body_66
+  - first:
+      213: 6926064030011975785
+    second: Slime2_Walk_body_67
+  - first:
+      213: 4248125502694705796
+    second: Slime2_Walk_body_68
+  - first:
+      213: 5825599676418953883
+    second: Slime2_Walk_body_69
+  - first:
+      213: 3753519406033548626
+    second: Slime2_Walk_body_70
+  - first:
+      213: 7138221096481035228
+    second: Slime2_Walk_body_71
+  - first:
+      213: -8367892670346709573
+    second: Slime2_Walk_body_72
+  - first:
+      213: -7659380480318450002
+    second: Slime2_Walk_body_73
+  - first:
+      213: 3450848614250082763
+    second: Slime2_Walk_body_74
+  - first:
+      213: -6687814763965640235
+    second: Slime2_Walk_body_75
+  - first:
+      213: -6337608650906225988
+    second: Slime2_Walk_body_76
+  - first:
+      213: -786702799879350917
+    second: Slime2_Walk_body_77
+  - first:
+      213: 2396283985367388336
+    second: Slime2_Walk_body_78
+  - first:
+      213: -5846672347567747315
+    second: Slime2_Walk_body_79
+  - first:
+      213: -5805669885853482668
+    second: Slime2_Walk_body_80
+  - first:
+      213: 6650128870326705961
+    second: Slime2_Walk_body_81
+  - first:
+      213: 3278729249476384712
+    second: Slime2_Walk_body_82
+  - first:
+      213: -5029118148193495872
+    second: Slime2_Walk_body_83
+  - first:
+      213: -7185444387998003411
+    second: Slime2_Walk_body_84
+  - first:
+      213: 3334937289855606156
+    second: Slime2_Walk_body_85
+  - first:
+      213: 5719389931334101853
+    second: Slime2_Walk_body_86
+  - first:
+      213: 7401887395723964109
+    second: Slime2_Walk_body_87
+  - first:
+      213: -8713732807153955210
+    second: Slime2_Walk_body_88
+  - first:
+      213: -6439361466904125062
+    second: Slime2_Walk_body_89
+  - first:
+      213: -232927123208665647
+    second: Slime2_Walk_body_90
+  - first:
+      213: -8658181304517622488
+    second: Slime2_Walk_body_91
+  - first:
+      213: 3727072919192953968
+    second: Slime2_Walk_body_92
+  - first:
+      213: -8555930223812417032
+    second: Slime2_Walk_body_93
+  - first:
+      213: -1203973196785403147
+    second: Slime2_Walk_body_94
+  - first:
+      213: 1733028667361991974
+    second: Slime2_Walk_body_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slime2_Walk_body_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 234
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f818ad6ce66ba2180800000000000000
+      internalID: -9139291906896133745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 237
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c706154db68ef90800000000000000
+      internalID: -6924165867439620961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 232
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cce5ccb886cad290800000000000000
+      internalID: -7864755508664210237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 215
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020016fa8f4c91ab0800000000000000
+      internalID: -5036778135863885792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_4
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 215
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee50a34d17295c50800000000000000
+      internalID: 6654392931058736878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_5
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 231
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97cc4c5d04dc7410800000000000000
+      internalID: 1476287931718879133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_6
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 231
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ea8fb5bdf714da0800000000000000
+      internalID: -5962343851544236473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 235
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c60796089a3a070800000000000000
+      internalID: 8116517322441649181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_8
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 240
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ddd616559827890800000000000000
+      internalID: -7461750632799675043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 235
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a256630dbd0e76600800000000000000
+      internalID: 461584721524450602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_10
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 215
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ccd8c7f27bdd860800000000000000
+      internalID: 7556397164378573827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_11
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 236
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a493b53d5eccb30800000000000000
+      internalID: 4309071639418063411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_12
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 239
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc4d7834b85de810800000000000000
+      internalID: 1796189357455789304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_13
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 241
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2838962d786b4ad0800000000000000
+      internalID: -2716963063460251605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_14
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 232
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b796ccd2216d730800000000000000
+      internalID: 4023423305014410117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_15
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 236
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae90a60031822b2c0800000000000000
+      internalID: -4417424222420596246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 215
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5028a7c45ec5906b0800000000000000
+      internalID: -5329626544115908091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_17
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 230
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24224b05c903f1db0800000000000000
+      internalID: -4819079628336127422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_18
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 215
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc552bbb97adb330800000000000000
+      internalID: 3728320353834196178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_19
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 215
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3005ce5bc12217970800000000000000
+      internalID: 8750813057664176131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_20
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 215
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6d25c779c275290800000000000000
+      internalID: -7901797992060758315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_21
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 229
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80630f84091e43970800000000000000
+      internalID: 8733853587193476616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_22
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 215
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae039cc7fb651e10800000000000000
+      internalID: 2167757507682045614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_23
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 227
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ec28afa63c2b440800000000000000
+      internalID: 4950233804670422654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_24
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 234
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6716c0602d081c770800000000000000
+      internalID: 8629320000551543158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_25
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 226
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14a968b22dbb7f20800000000000000
+      internalID: 3421536298738492443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_26
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 173
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d5f7479636c3b20800000000000000
+      internalID: 3115474346810760464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_27
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 170
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c580c79b5440a750800000000000000
+      internalID: 6314121837752124868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_28
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 168
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9976691c6e7982450800000000000000
+      internalID: 6064263915600504729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_29
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 151
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4402e04c938177bf0800000000000000
+      internalID: -326765811579609020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_30
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 167
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6733709aa157082c0800000000000000
+      internalID: -4431413275967147146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_31
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 151
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc7d2d786c55bc70800000000000000
+      internalID: 8986190235334180019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_32
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 171
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fac8db82f34d060800000000000000
+      internalID: 6977271166915096351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_33
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 176
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e171c529f7fde20800000000000000
+      internalID: 3377558512138133065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_34
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 171
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b2f5803e7450b60800000000000000
+      internalID: 7711648977365445456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_35
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 167
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed304cce470b4040800000000000000
+      internalID: 4632804676696292847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_36
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 151
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85dd45eba6f623340800000000000000
+      internalID: 4842055053627153752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_37
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 175
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79d1f029ef3a8f50800000000000000
+      internalID: 6884385250901875069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_38
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 172
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef666ade441a7240800000000000000
+      internalID: 4790163482566094816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_39
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 168
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6399a0c929aa0b0800000000000000
+      internalID: -5716595578103056679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_40
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 177
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01b6025c4c2207c0800000000000000
+      internalID: -4106671203903164147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_41
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 172
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1849c606c942720800000000000000
+      internalID: 2820551204593238488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_42
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 166
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc2628eb7fda5330800000000000000
+      internalID: 3700515767107071178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_43
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 151
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4fbd5782dbc1e80800000000000000
+      internalID: -8206476439502195520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_44
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 151
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb66e95f0832da40800000000000000
+      internalID: 5391433342499843011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_45
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 151
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d2c4a93df2ef250800000000000000
+      internalID: 5980269941067885883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_46
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 151
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162ba82b4f1bf9f90800000000000000
+      internalID: -6944636435856444831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_47
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 165
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e80df8e3f34b3fb0800000000000000
+      internalID: -4667061873974376221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_48
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 162
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bf8c9e85ad637e0800000000000000
+      internalID: -1786000126791582970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_49
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 170
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1061b1ab3ae0c1e60800000000000000
+      internalID: 7934232739884766721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_50
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 151
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d1c4b1e98e773f0800000000000000
+      internalID: -902997434504045299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_51
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 163
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f8b7792e64e41a0800000000000000
+      internalID: -6823438446401712375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_52
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 87
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649da07531f0dabe0800000000000000
+      internalID: -1464497728086419130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_53
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 87
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61ea662e368064d0800000000000000
+      internalID: -3143364938413973139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 87
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33a4ffeb049df8a0800000000000000
+      internalID: -6269692327238524099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_55
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 103
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b6f98a1351a4650800000000000000
+      internalID: 6217805538564991897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_56
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 87
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3488dde8d0264230800000000000000
+      internalID: 3622619066341557310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_57
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 107
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5c2a3f90c824180800000000000000
+      internalID: -9132583119983819348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_58
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 107
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce7d2f8eeea4c9e0800000000000000
+      internalID: -1601963227809481017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_59
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 105
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864c04e541addc780800000000000000
+      internalID: -8661026727348091800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_60
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 104
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07f63ff7bf589e10800000000000000
+      internalID: 2204617261463303948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_61
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 97
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d604e07b9a9d06320800000000000000
+      internalID: 2549276712035565677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_62
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 87
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda8d74f3ca96a6a0800000000000000
+      internalID: -6438288450868376867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_63
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 103
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f0c555bcff44020800000000000000
+      internalID: 2325264556405559162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_64
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 100
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566382f7a39c06590800000000000000
+      internalID: -7682919711215438235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_65
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 87
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76f8cd5e2e4d1700800000000000000
+      internalID: 512651893639018108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_66
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 103
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acf6da1fadb7f250800000000000000
+      internalID: 5978455590124846248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_67
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 109
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96869781a825e1060800000000000000
+      internalID: 6926064030011975785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_68
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 100
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a456d13af54fa30800000000000000
+      internalID: 4248125502694705796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_69
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 96
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9215945a00b8d050800000000000000
+      internalID: 5825599676418953883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_70
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 87
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2553a26430e271430800000000000000
+      internalID: 3753519406033548626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_71
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 87
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd393ff644e001360800000000000000
+      internalID: 7138221096481035228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_72
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 99
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5b36983f54fdb80800000000000000
+      internalID: -8367892670346709573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_73
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 100
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6de07c80a64b590800000000000000
+      internalID: -7659380480318450002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_74
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 23
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc176020880e3ef20800000000000000
+      internalID: 3450848614250082763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_75
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 23
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1173ed7eb1033a0800000000000000
+      internalID: -6687814763965640235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_76
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 39
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2ba45928a4c08a0800000000000000
+      internalID: -6337608650906225988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_77
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 23
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75d26db8f11515f0800000000000000
+      internalID: -786702799879350917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_78
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 41
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0d7c0b69f414120800000000000000
+      internalID: 2396283985367388336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_79
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 43
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f00251a727cdea0800000000000000
+      internalID: -5846672347567747315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_80
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 43
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4514582affd1e6fa0800000000000000
+      internalID: -5805669885853482668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_81
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 23
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f946249f00a4c50800000000000000
+      internalID: 6650128870326705961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_82
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 38
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c719b581e2608d20800000000000000
+      internalID: 3278729249476384712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_83
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 23
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4d47b80bbf43ab0800000000000000
+      internalID: -5029118148193495872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_84
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 36
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f0e04366c284c90800000000000000
+      internalID: -7185444387998003411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_85
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 39
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d1c0ebbc3184e20800000000000000
+      internalID: 3334937289855606156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_86
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 23
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b6d1507da5f5f40800000000000000
+      internalID: 5719389931334101853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_87
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 45
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce61999e59c8b660800000000000000
+      internalID: 7401887395723964109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_88
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 39
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ecbe1ed2a921780800000000000000
+      internalID: -8713732807153955210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_89
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 32
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7167d0fcdac2a6a0800000000000000
+      internalID: -6439361466904125062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_90
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 36
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5089af30a74ccf0800000000000000
+      internalID: -232927123208665647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_91
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 33
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8258c4ff9f5f7d780800000000000000
+      internalID: -8658181304517622488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_92
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 23
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0746978b21939b330800000000000000
+      internalID: 3727072919192953968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_93
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 23
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9e1aeeaca334980800000000000000
+      internalID: -8555930223812417032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_94
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 36
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fab386a1c0aa4fe0800000000000000
+      internalID: -1203973196785403147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2_Walk_body_95
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 35
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d1ea71464fc0810800000000000000
+      internalID: 1733028667361991974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Slime2_Walk_body_0: -9139291906896133745
+      Slime2_Walk_body_1: -6924165867439620961
+      Slime2_Walk_body_10: 7556397164378573827
+      Slime2_Walk_body_11: 4309071639418063411
+      Slime2_Walk_body_12: 1796189357455789304
+      Slime2_Walk_body_13: -2716963063460251605
+      Slime2_Walk_body_14: 4023423305014410117
+      Slime2_Walk_body_15: -4417424222420596246
+      Slime2_Walk_body_16: -5329626544115908091
+      Slime2_Walk_body_17: -4819079628336127422
+      Slime2_Walk_body_18: 3728320353834196178
+      Slime2_Walk_body_19: 8750813057664176131
+      Slime2_Walk_body_2: -7864755508664210237
+      Slime2_Walk_body_20: -7901797992060758315
+      Slime2_Walk_body_21: 8733853587193476616
+      Slime2_Walk_body_22: 2167757507682045614
+      Slime2_Walk_body_23: 4950233804670422654
+      Slime2_Walk_body_24: 8629320000551543158
+      Slime2_Walk_body_25: 3421536298738492443
+      Slime2_Walk_body_26: 3115474346810760464
+      Slime2_Walk_body_27: 6314121837752124868
+      Slime2_Walk_body_28: 6064263915600504729
+      Slime2_Walk_body_29: -326765811579609020
+      Slime2_Walk_body_3: -5036778135863885792
+      Slime2_Walk_body_30: -4431413275967147146
+      Slime2_Walk_body_31: 8986190235334180019
+      Slime2_Walk_body_32: 6977271166915096351
+      Slime2_Walk_body_33: 3377558512138133065
+      Slime2_Walk_body_34: 7711648977365445456
+      Slime2_Walk_body_35: 4632804676696292847
+      Slime2_Walk_body_36: 4842055053627153752
+      Slime2_Walk_body_37: 6884385250901875069
+      Slime2_Walk_body_38: 4790163482566094816
+      Slime2_Walk_body_39: -5716595578103056679
+      Slime2_Walk_body_4: 6654392931058736878
+      Slime2_Walk_body_40: -4106671203903164147
+      Slime2_Walk_body_41: 2820551204593238488
+      Slime2_Walk_body_42: 3700515767107071178
+      Slime2_Walk_body_43: -8206476439502195520
+      Slime2_Walk_body_44: 5391433342499843011
+      Slime2_Walk_body_45: 5980269941067885883
+      Slime2_Walk_body_46: -6944636435856444831
+      Slime2_Walk_body_47: -4667061873974376221
+      Slime2_Walk_body_48: -1786000126791582970
+      Slime2_Walk_body_49: 7934232739884766721
+      Slime2_Walk_body_5: 1476287931718879133
+      Slime2_Walk_body_50: -902997434504045299
+      Slime2_Walk_body_51: -6823438446401712375
+      Slime2_Walk_body_52: -1464497728086419130
+      Slime2_Walk_body_53: -3143364938413973139
+      Slime2_Walk_body_54: -6269692327238524099
+      Slime2_Walk_body_55: 6217805538564991897
+      Slime2_Walk_body_56: 3622619066341557310
+      Slime2_Walk_body_57: -9132583119983819348
+      Slime2_Walk_body_58: -1601963227809481017
+      Slime2_Walk_body_59: -8661026727348091800
+      Slime2_Walk_body_6: -5962343851544236473
+      Slime2_Walk_body_60: 2204617261463303948
+      Slime2_Walk_body_61: 2549276712035565677
+      Slime2_Walk_body_62: -6438288450868376867
+      Slime2_Walk_body_63: 2325264556405559162
+      Slime2_Walk_body_64: -7682919711215438235
+      Slime2_Walk_body_65: 512651893639018108
+      Slime2_Walk_body_66: 5978455590124846248
+      Slime2_Walk_body_67: 6926064030011975785
+      Slime2_Walk_body_68: 4248125502694705796
+      Slime2_Walk_body_69: 5825599676418953883
+      Slime2_Walk_body_7: 8116517322441649181
+      Slime2_Walk_body_70: 3753519406033548626
+      Slime2_Walk_body_71: 7138221096481035228
+      Slime2_Walk_body_72: -8367892670346709573
+      Slime2_Walk_body_73: -7659380480318450002
+      Slime2_Walk_body_74: 3450848614250082763
+      Slime2_Walk_body_75: -6687814763965640235
+      Slime2_Walk_body_76: -6337608650906225988
+      Slime2_Walk_body_77: -786702799879350917
+      Slime2_Walk_body_78: 2396283985367388336
+      Slime2_Walk_body_79: -5846672347567747315
+      Slime2_Walk_body_8: -7461750632799675043
+      Slime2_Walk_body_80: -5805669885853482668
+      Slime2_Walk_body_81: 6650128870326705961
+      Slime2_Walk_body_82: 3278729249476384712
+      Slime2_Walk_body_83: -5029118148193495872
+      Slime2_Walk_body_84: -7185444387998003411
+      Slime2_Walk_body_85: 3334937289855606156
+      Slime2_Walk_body_86: 5719389931334101853
+      Slime2_Walk_body_87: 7401887395723964109
+      Slime2_Walk_body_88: -8713732807153955210
+      Slime2_Walk_body_89: -6439361466904125062
+      Slime2_Walk_body_9: 461584721524450602
+      Slime2_Walk_body_90: -232927123208665647
+      Slime2_Walk_body_91: -8658181304517622488
+      Slime2_Walk_body_92: 3727072919192953968
+      Slime2_Walk_body_93: -8555930223812417032
+      Slime2_Walk_body_94: -1203973196785403147
+      Slime2_Walk_body_95: 1733028667361991974
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

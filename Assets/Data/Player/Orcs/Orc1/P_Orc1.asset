@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2d342af07e37b944b6e5170f0c2fc84, type: 3}
+  m_Name: P_Orc1
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerSO
+  icon: {fileID: 3459547899722000283, guid: 67efe721ddbff4a4fbfeed644570fb0c, type: 3}
+  runtimeAnimatorController: {fileID: 22100000, guid: 6a4671418e6f4f5418e0002323e055fa, type: 2}
+  speedWalk: 5
+  speedRun: 7
+  maxHealth: 55
+  maxMana: 20
+  colliderOffset: {x: -0.01718521, y: 0.1208292}
+  colliderSize: {x: 0.7262535, y: 1.241658}
+  capsuleDirection: 0
+  abilities:
+  - {fileID: 11400000, guid: 40a85cd52d6955248962f45e17866252, type: 2}
+  - {fileID: 11400000, guid: 1bbba552a63197646aff76a9c99ce74e, type: 2}
+  iconUI: {fileID: 22100000, guid: 02319be622c38aa4dbfad0eb198da8c3, type: 2}
+  setSizeIcon:
+    needSetSizeCanvasIcon: 1
+    size: {x: 250, y: 250}
+    x: -100.7
+    y: -192.7
+    needSetSizeHealthBarMini: 1
+    healthy: 538.2
+  setSFX:
+    walk_Clip: {fileID: 8300000, guid: 82abdfdcbae06e24d878df9fea3d10f9, type: 3}
+    run_Clip: {fileID: 8300000, guid: bbfe74d6b00752d4998fb28d67cd469c, type: 3}
+    death_Clip: {fileID: 8300000, guid: 873216e8312013c46b4a0d62ac06bad3, type: 3}
+    hurt_Clip: {fileID: 8300000, guid: 24e1da4a366b5a443830f5f507636b6e, type: 3}
+  idCharacter: 6

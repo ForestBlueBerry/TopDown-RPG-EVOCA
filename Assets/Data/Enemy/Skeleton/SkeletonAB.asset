@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e484b2e1560edea468c58aeb32d8ce48, type: 3}
+  m_Name: SkeletonAB
+  m_EditorClassIdentifier: Assembly-CSharp::MonsterPlantAB
+  nameAbility: 
+  cooldown: 1
+  distanceBeforeAttack: 0.8
+  attackDurationStun: 0
+  offset: 0.4
+  range: 0.8
+  speed: 0
+  damage: 5
+  setAbilitySFXEnemy:
+    attackLaunch_Clip: {fileID: 8300000, guid: 11a7e437220878a469c7cb629294f62d, type: 3}
+    attackImpact_Clip: {fileID: 8300000, guid: d753d05545652f2429cfe51db802febe, type: 3}
+    attackLoop_Clip: {fileID: 0}

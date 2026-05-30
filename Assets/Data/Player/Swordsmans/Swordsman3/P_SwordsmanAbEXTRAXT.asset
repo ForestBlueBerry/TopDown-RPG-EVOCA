@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c43ccb1e9d1c194199cf2dec519cade, type: 3}
+  m_Name: P_SwordsmanAbEXTRAXT
+  m_EditorClassIdentifier: Assembly-CSharp::P_SwordsmanAb2
+  cooldown: 2
+  damage: 23
+  range: 1.6
+  speed: 0
+  manaPerAttack: 5
+  offset: 0.8
+  executeAnimator: 1
+  layerAttack:
+    serializedVersion: 2
+    m_Bits: 256
+  setAbilitySFX:
+    attackLaunch_Clip: {fileID: 8300000, guid: 7551e5850e0ecab47bf07c3a7e14e4b0, type: 3}
+    attackImpact_Clip: {fileID: 8300000, guid: 45697a85e1c18784a952cb705a142f4c, type: 3}
+    attackLoop_Clip: {fileID: 0}
+  prefabAb: {fileID: 320666846108152995, guid: 1444231dc3cad274fab155450a6e4f2b, type: 3}

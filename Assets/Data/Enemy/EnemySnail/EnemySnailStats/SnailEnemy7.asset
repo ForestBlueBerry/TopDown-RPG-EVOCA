@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fa22d1462426414ba324a2fa10987a4, type: 3}
+  m_Name: SnailEnemy7
+  m_EditorClassIdentifier: Assembly-CSharp::EnemySO
+  animator: {fileID: 22100000, guid: 844c467be75d49142abeb1bdb6577ee8, type: 2}
+  enemyPrefab: {fileID: 3309604040446623876, guid: bf3472c92418da44288511f28566624a, type: 3}
+  speedMove: 3
+  speedRun: 5
+  detectionRadius: 5
+  maxHealth: 20
+  stoppingDistance: 3
+  abilities: {fileID: 11400000, guid: dcdb87991b0bb874da641169a54b93d4, type: 2}
+  colliderOffset: {x: 0, y: -0.16}
+  colliderSize: {x: 0.39, y: 0.63}
+  capsuleDirection: 0
+  enemyName: 1
+  bottle: 7
+  boss: 0
+  setSFXEnemy:
+    walk_Clip: {fileID: 8300000, guid: c14fd5157e727d843b6d6a12cee27bfc, type: 3}
+    run_Clip: {fileID: 8300000, guid: 108c8939bfea1d74fa23ffa0682a806b, type: 3}
+    death_Clip: {fileID: 8300000, guid: e0a763302c00ab6409ce0a1646f0ebe1, type: 3}
+    hurt_Clip: {fileID: 8300000, guid: 4c5b09a1129b87e44a161c88ccdad14f, type: 3}

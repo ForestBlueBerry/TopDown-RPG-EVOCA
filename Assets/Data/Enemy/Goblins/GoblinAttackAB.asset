@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 809a6b6fd2c0bbc4cb14d29219400cb0, type: 3}
+  m_Name: GoblinAttackAB
+  m_EditorClassIdentifier: Assembly-CSharp::GoblinAttackAB
+  nameAbility: 
+  cooldown: 1
+  distanceBeforeAttack: 0.9
+  attackDurationStun: 0
+  offset: 0.6
+  range: 1
+  speed: 0
+  damage: 5
+  setAbilitySFXEnemy:
+    attackLaunch_Clip: {fileID: 8300000, guid: 9b6be462d8f1f384d8983aa160a4350f, type: 3}
+    attackImpact_Clip: {fileID: 8300000, guid: 6cc9be235b670c441b03e5656e2344fc, type: 3}
+    attackLoop_Clip: {fileID: 0}
+  strenghtResist: 55
+  knockbackTimer: 0.2

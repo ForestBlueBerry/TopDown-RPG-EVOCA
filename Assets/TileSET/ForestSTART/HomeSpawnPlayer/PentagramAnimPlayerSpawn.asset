@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: PentagramAnimPlayerSpawn
+  m_EditorClassIdentifier: Unity.2D.Tilemap.Extras::UnityEngine.Tilemaps.AnimatedTile
+  m_AnimatedSprites:
+  - {fileID: -938309037179832286, guid: e1ef8b1ecc26b894baab31b28a380fd5, type: 3}
+  - {fileID: -199818814999697862, guid: e1ef8b1ecc26b894baab31b28a380fd5, type: 3}
+  - {fileID: -1496247607254613345, guid: e1ef8b1ecc26b894baab31b28a380fd5, type: 3}
+  - {fileID: 4686152152976112349, guid: e1ef8b1ecc26b894baab31b28a380fd5, type: 3}
+  - {fileID: 1093218007240687500, guid: e1ef8b1ecc26b894baab31b28a380fd5, type: 3}
+  - {fileID: -9086988259946643991, guid: e1ef8b1ecc26b894baab31b28a380fd5, type: 3}
+  - {fileID: -7554487739395705464, guid: e1ef8b1ecc26b894baab31b28a380fd5, type: 3}
+  - {fileID: 4403550030487780603, guid: e1ef8b1ecc26b894baab31b28a380fd5, type: 3}
+  - {fileID: 3695840847871992905, guid: e1ef8b1ecc26b894baab31b28a380fd5, type: 3}
+  - {fileID: -6445592571530013785, guid: e1ef8b1ecc26b894baab31b28a380fd5, type: 3}
+  - {fileID: -6217558898890490166, guid: e1ef8b1ecc26b894baab31b28a380fd5, type: 3}
+  - {fileID: 2531966499120693624, guid: e1ef8b1ecc26b894baab31b28a380fd5, type: 3}
+  m_MinSpeed: 5
+  m_MaxSpeed: 5
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

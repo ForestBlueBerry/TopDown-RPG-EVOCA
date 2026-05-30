@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2d342af07e37b944b6e5170f0c2fc84, type: 3}
+  m_Name: P_MonsterPlant3
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerSO
+  icon: {fileID: 3121108465985990747, guid: 98970c3391234f548ab94d68394856e8, type: 3}
+  runtimeAnimatorController: {fileID: 22100000, guid: 7e53c8cbad6467946849b1d8c9f555ce, type: 2}
+  speedWalk: 6
+  speedRun: 8
+  maxHealth: 30
+  maxMana: 15
+  colliderOffset: {x: -0.01318932, y: -0.0684104}
+  colliderSize: {x: 0.9244652, y: 1.360238}
+  capsuleDirection: 0
+  abilities:
+  - {fileID: 11400000, guid: c2d614f8909aded43a731aeb0cf456fd, type: 2}
+  iconUI: {fileID: 22100000, guid: aa54a74ee6603684aaa228c0365eda44, type: 2}
+  setSizeIcon:
+    needSetSizeCanvasIcon: 0
+    size: {x: 0, y: 0}
+    x: 0
+    y: 0
+    needSetSizeHealthBarMini: 0
+    healthy: 0
+  setSFX:
+    walk_Clip: {fileID: 8300000, guid: d580aeef57911b74abc2d8e4a921c575, type: 3}
+    run_Clip: {fileID: 8300000, guid: ab8f175a163cc074f8c937eda45ff1b3, type: 3}
+    death_Clip: {fileID: 8300000, guid: 20faec0304ee31e40a527aa2fb4c46af, type: 3}
+    hurt_Clip: {fileID: 8300000, guid: 880bd1ce758f8f54e99270b8c6a1a845, type: 3}
+  idCharacter: 4

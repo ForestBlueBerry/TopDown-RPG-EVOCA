@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2d342af07e37b944b6e5170f0c2fc84, type: 3}
+  m_Name: P_SlimeFire7_8
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerSO
+  icon: {fileID: -2863241958341551144, guid: b1120d594dd43c046a2dd6b104c6e232, type: 3}
+  runtimeAnimatorController: {fileID: 22100000, guid: 0802ebdd85be8294ba98adafa3ce1602, type: 2}
+  speedWalk: 3
+  speedRun: 6
+  maxHealth: 42
+  maxMana: 5
+  colliderOffset: {x: 0, y: 0}
+  colliderSize: {x: 0.6875954, y: 0.6875954}
+  capsuleDirection: 0
+  abilities:
+  - {fileID: 11400000, guid: fbe332f6172600c458ce0e5793c142f7, type: 2}
+  iconUI: {fileID: 22100000, guid: b58d0989458008945bb13cbeda00364e, type: 2}
+  setSizeIcon:
+    needSetSizeCanvasIcon: 1
+    size: {x: 300, y: 300}
+    x: -108.5
+    y: -173.8
+    needSetSizeHealthBarMini: 0
+    healthy: 0
+  setSFX:
+    walk_Clip: {fileID: 8300000, guid: 97f5c21a4704a72439d12790bbb50868, type: 3}
+    run_Clip: {fileID: 8300000, guid: fe622a73f20eebe4989916676181d67f, type: 3}
+    death_Clip: {fileID: 8300000, guid: 708585777894e0f4a990cbdaf8249710, type: 3}
+    hurt_Clip: {fileID: 8300000, guid: aba35f8128e989f418a6e0cbf604e3ae, type: 3}
+  idCharacter: 14

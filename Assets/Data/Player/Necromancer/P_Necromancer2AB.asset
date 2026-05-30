@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f36ceac6bf700984fa498a9e3ad70f47, type: 3}
+  m_Name: P_Necromancer2AB
+  m_EditorClassIdentifier: Assembly-CSharp::P_Ab2Necromancer
+  cooldown: 3
+  damage: 25
+  range: 22
+  speed: 7
+  manaPerAttack: 30
+  offset: 1
+  executeAnimator: 1
+  layerAttack:
+    serializedVersion: 2
+    m_Bits: 256
+  setAbilitySFX:
+    attackLaunch_Clip: {fileID: 8300000, guid: b6e28e6a031038444a37a87b4c1ca2c3, type: 3}
+    attackImpact_Clip: {fileID: 8300000, guid: 2ff2d43407ede314bb821296cdd9eb57, type: 3}
+    attackLoop_Clip: {fileID: 8300000, guid: bfebeb84cff8901479a7a6ef2693211f, type: 3}
+  ability: {fileID: 5883915412121407231, guid: 9699b5fac5edeef4d8ddf98d062f90ad, type: 3}

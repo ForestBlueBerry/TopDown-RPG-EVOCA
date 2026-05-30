@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fa22d1462426414ba324a2fa10987a4, type: 3}
+  m_Name: Goblin3
+  m_EditorClassIdentifier: Assembly-CSharp::EnemySO
+  animator: {fileID: 22100000, guid: 84da306841c9643489a07ec3e8710c45, type: 2}
+  enemyPrefab: {fileID: 3309604040446623876, guid: bf3472c92418da44288511f28566624a, type: 3}
+  speedMove: 3
+  speedRun: 5
+  detectionRadius: 9
+  maxHealth: 55
+  stoppingDistance: 3
+  abilities: {fileID: 11400000, guid: 09ab9f0e5fec14e4e8a29bf87aac97d8, type: 2}
+  colliderOffset: {x: 0, y: -0.3}
+  colliderSize: {x: 0.45, y: 0.88}
+  capsuleDirection: 0
+  enemyName: 2
+  bottle: 14
+  boss: 0
+  setSFXEnemy:
+    walk_Clip: {fileID: 8300000, guid: 379deb00507d1294eb00aabd31f89a43, type: 3}
+    run_Clip: {fileID: 8300000, guid: f51843b6679750a47aa0d8084e20d65a, type: 3}
+    death_Clip: {fileID: 8300000, guid: 873216e8312013c46b4a0d62ac06bad3, type: 3}
+    hurt_Clip: {fileID: 8300000, guid: 97958aba65e4df5439332a65a6efb1e5, type: 3}

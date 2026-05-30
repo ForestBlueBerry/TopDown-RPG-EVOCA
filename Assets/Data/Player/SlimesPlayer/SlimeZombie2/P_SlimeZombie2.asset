@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2d342af07e37b944b6e5170f0c2fc84, type: 3}
+  m_Name: P_SlimeZombie2
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerSO
+  icon: {fileID: -2863241958341551144, guid: df5ab3812e7b1df4982c225c34648ae4, type: 3}
+  runtimeAnimatorController: {fileID: 22100000, guid: 0e29920b6310da045afd7e81735106a7, type: 2}
+  speedWalk: 4
+  speedRun: 6
+  maxHealth: 30
+  maxMana: 5
+  colliderOffset: {x: 0, y: 0}
+  colliderSize: {x: 0.6875954, y: 0.6875954}
+  capsuleDirection: 0
+  abilities:
+  - {fileID: 11400000, guid: c9b2c93467a72a946804ce518a4429c5, type: 2}
+  iconUI: {fileID: 22100000, guid: 4fa8b52fe84230542b7845bffe4126f1, type: 2}
+  setSizeIcon:
+    needSetSizeCanvasIcon: 1
+    size: {x: 300, y: 300}
+    x: -108.5
+    y: -173.8
+    needSetSizeHealthBarMini: 0
+    healthy: 0
+  setSFX:
+    walk_Clip: {fileID: 8300000, guid: 46ffb9b0890eef741bea48222fc25055, type: 3}
+    run_Clip: {fileID: 8300000, guid: a85ca5ab44ad2274db670b5747ecaf18, type: 3}
+    death_Clip: {fileID: 8300000, guid: e0a763302c00ab6409ce0a1646f0ebe1, type: 3}
+    hurt_Clip: {fileID: 8300000, guid: 2e19ca004fa16be47947ea2242c13ab3, type: 3}
+  idCharacter: 12

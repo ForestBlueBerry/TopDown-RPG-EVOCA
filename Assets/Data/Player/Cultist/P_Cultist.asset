@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2d342af07e37b944b6e5170f0c2fc84, type: 3}
+  m_Name: P_Cultist
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerSO
+  icon: {fileID: -7618221830748741723, guid: 58b342f958b90374085768bb564bee91, type: 3}
+  runtimeAnimatorController: {fileID: 22100000, guid: 10b3c7d9e00b3c641876d6b625b06e8c, type: 2}
+  speedWalk: 5
+  speedRun: 6
+  maxHealth: 55
+  maxMana: 100
+  colliderOffset: {x: -0.001820564, y: -0.001820564}
+  colliderSize: {x: 0.5373821, y: 1.183765}
+  capsuleDirection: 0
+  abilities:
+  - {fileID: 11400000, guid: 7383b69937fa04140884adab9e92a778, type: 2}
+  - {fileID: 11400000, guid: bc23f69c09bbf61438d0c81d9d9fa10a, type: 2}
+  - {fileID: 11400000, guid: 1c67ec3b2b6bb6141a6062ab28cba8f2, type: 2}
+  iconUI: {fileID: 22100000, guid: 1cb00c5fe1ce51440816793704497125, type: 2}
+  setSizeIcon:
+    needSetSizeCanvasIcon: 0
+    size: {x: 0, y: 0}
+    x: 0
+    y: 0
+    needSetSizeHealthBarMini: 0
+    healthy: 0
+  setSFX:
+    walk_Clip: {fileID: 8300000, guid: 379deb00507d1294eb00aabd31f89a43, type: 3}
+    run_Clip: {fileID: 8300000, guid: f51843b6679750a47aa0d8084e20d65a, type: 3}
+    death_Clip: {fileID: 8300000, guid: 0069638d9aab367479ac522b530d5944, type: 3}
+    hurt_Clip: {fileID: 8300000, guid: 0cb5f46822c9a9542a0a17310d36c312, type: 3}
+  idCharacter: 1

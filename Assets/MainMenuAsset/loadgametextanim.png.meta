@@ -1,0 +1,542 @@
+fileFormatVersion: 2
+guid: 6085936cbe8e19742864d43ccd7c5529
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6386526276679562630
+    second: loadgametextanim_0
+  - first:
+      213: 7428241682955750835
+    second: loadgametextanim_1
+  - first:
+      213: 7882202777522870260
+    second: loadgametextanim_2
+  - first:
+      213: 7103990837048246392
+    second: loadgametextanim_3
+  - first:
+      213: -9069101495754322083
+    second: loadgametextanim_4
+  - first:
+      213: 1979860341008793917
+    second: loadgametextanim_5
+  - first:
+      213: 4834962560346376436
+    second: loadgametextanim_6
+  - first:
+      213: -1133117559711743299
+    second: loadgametextanim_7
+  - first:
+      213: -3680128652329980343
+    second: loadgametextanim_8
+  - first:
+      213: -7559617583993320209
+    second: loadgametextanim_9
+  - first:
+      213: -1170823968259257503
+    second: loadgametextanim_10
+  - first:
+      213: 4719660231776244098
+    second: loadgametextanim_11
+  - first:
+      213: 1717367518989414380
+    second: loadgametextanim_12
+  - first:
+      213: -7321014009284560737
+    second: loadgametextanim_13
+  - first:
+      213: 294972117327121214
+    second: loadgametextanim_14
+  - first:
+      213: -3164451616575384317
+    second: loadgametextanim_15
+  - first:
+      213: 86247762443105507
+    second: loadgametextanim_16
+  - first:
+      213: 8332458226435861119
+    second: loadgametextanim_17
+  - first:
+      213: 3825878209512818228
+    second: loadgametextanim_18
+  - first:
+      213: -8164356861347063207
+    second: loadgametextanim_19
+  - first:
+      213: 5249906980022744850
+    second: loadgametextanim_20
+  - first:
+      213: 6204918867543859294
+    second: loadgametextanim_21
+  - first:
+      213: -335695383337785968
+    second: loadgametextanim_22
+  - first:
+      213: -4707335482335259165
+    second: loadgametextanim_23
+  - first:
+      213: 3926004754916268593
+    second: loadgametextanim_24
+  - first:
+      213: 1887231708485939396
+    second: loadgametextanim_25
+  - first:
+      213: -869218718109805977
+    second: loadgametextanim_26
+  - first:
+      213: 5239674735989513239
+    second: loadgametextanim_27
+  - first:
+      213: 4793446103782515155
+    second: loadgametextanim_28
+  - first:
+      213: 1315120421181729248
+    second: loadgametextanim_29
+  - first:
+      213: -8649520513072342165
+    second: loadgametextanim_30
+  - first:
+      213: 6569241503745538834
+    second: loadgametextanim_31
+  - first:
+      213: 1471338743654483377
+    second: loadgametextanim_32
+  - first:
+      213: -1039704646406905039
+    second: loadgametextanim_33
+  - first:
+      213: 3203694032149787363
+    second: loadgametextanim_34
+  - first:
+      213: -6235778551681780857
+    second: loadgametextanim_35
+  - first:
+      213: -2942558519373638031
+    second: loadgametextanim_36
+  - first:
+      213: -142894632983034860
+    second: loadgametextanim_37
+  - first:
+      213: 1162553654179978787
+    second: loadgametextanim_38
+  - first:
+      213: -5242830198690188767
+    second: loadgametextanim_39
+  - first:
+      213: 8956989688030106723
+    second: loadgametextanim_40
+  - first:
+      213: -6168999376646781496
+    second: loadgametextanim_41
+  - first:
+      213: -3706620133901550812
+    second: loadgametextanim_42
+  - first:
+      213: -6902393783583613591
+    second: loadgametextanim_43
+  - first:
+      213: 8021606105689243920
+    second: loadgametextanim_44
+  - first:
+      213: -3847752917519273139
+    second: loadgametextanim_45
+  - first:
+      213: 4052535709893690903
+    second: loadgametextanim_46
+  - first:
+      213: -7509998134503736898
+    second: loadgametextanim_47
+  - first:
+      213: 4181635393258821428
+    second: loadgametextanim_48
+  - first:
+      213: -3873555985426933406
+    second: loadgametextanim_49
+  - first:
+      213: -8795435896973459911
+    second: loadgametextanim_50
+  - first:
+      213: -599023439224253898
+    second: loadgametextanim_51
+  - first:
+      213: -2583584976242123494
+    second: loadgametextanim_52
+  - first:
+      213: -5818359172175487667
+    second: loadgametextanim_53
+  - first:
+      213: 7111909017057509829
+    second: loadgametextanim_54
+  - first:
+      213: -1433829739055146788
+    second: loadgametextanim_55
+  - first:
+      213: -7505991249632884449
+    second: loadgametextanim_56
+  - first:
+      213: 1747247853223071517
+    second: loadgametextanim_57
+  - first:
+      213: -9026349410928503869
+    second: loadgametextanim_58
+  - first:
+      213: 3897311266761843549
+    second: loadgametextanim_59
+  - first:
+      213: 2378737381360417872
+    second: loadgametextanim_60
+  - first:
+      213: 2292543021952696521
+    second: loadgametextanim_61
+  - first:
+      213: 5823840902974241943
+    second: loadgametextanim_62
+  - first:
+      213: -8274630866428861805
+    second: loadgametextanim_63
+  - first:
+      213: 2800054633637937144
+    second: loadgametextanim_64
+  - first:
+      213: 4561322581897632715
+    second: loadgametextanim_65
+  - first:
+      213: 7137263717420385230
+    second: loadgametextanim_66
+  - first:
+      213: 3164225236952161568
+    second: loadgametextanim_67
+  - first:
+      213: 4063234479920329633
+    second: loadgametextanim_68
+  - first:
+      213: -4818898546088906573
+    second: loadgametextanim_69
+  - first:
+      213: -711343160045218715
+    second: loadgametextanim_70
+  - first:
+      213: -84179886076575540
+    second: loadgametextanim_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: loadgametextanim_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 485
+        width: 340
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a01d940308e57a0800000000000000
+      internalID: -6386526276679562630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadgametextanim_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 430
+        width: 340
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdc352447a661760800000000000000
+      internalID: 7428241682955750835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadgametextanim_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 372
+        width: 340
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f719d91aa5336d60800000000000000
+      internalID: 7882202777522870260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadgametextanim_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 312
+        width: 340
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87004e91702769260800000000000000
+      internalID: 7103990837048246392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadgametextanim_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 252
+        width: 340
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f89916d34142280800000000000000
+      internalID: -9069101495754322083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadgametextanim_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 195
+        width: 340
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3186ba8d70e97b10800000000000000
+      internalID: 1979860341008793917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadgametextanim_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 141
+        width: 340
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f842c7f4dc391340800000000000000
+      internalID: 4834962560346376436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadgametextanim_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 85
+        width: 340
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2cf9c359b5640f0800000000000000
+      internalID: -1133117559711743299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadgametextanim_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 340
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e62262d7e8decc0800000000000000
+      internalID: -3680128652329980343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5ff530809bbc3614abf4fdc57f831fb4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":413.0,"y":60.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      loadgametextanim_0: -6386526276679562630
+      loadgametextanim_1: 7428241682955750835
+      loadgametextanim_2: 7882202777522870260
+      loadgametextanim_3: 7103990837048246392
+      loadgametextanim_4: -9069101495754322083
+      loadgametextanim_5: 1979860341008793917
+      loadgametextanim_6: 4834962560346376436
+      loadgametextanim_7: -1133117559711743299
+      loadgametextanim_8: -3680128652329980343
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

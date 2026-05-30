@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2d342af07e37b944b6e5170f0c2fc84, type: 3}
+  m_Name: P_Vampir3
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerSO
+  icon: {fileID: -4622778640565343425, guid: 936154a874ecb384eb8a1bab8a6b77c8, type: 3}
+  runtimeAnimatorController: {fileID: 22100000, guid: 47cb9bc141046424ab67aab2995e1be4, type: 2}
+  speedWalk: 7
+  speedRun: 11
+  maxHealth: 60
+  maxMana: 65
+  colliderOffset: {x: -0.02431965, y: 0.02567101}
+  colliderSize: {x: 0.5946751, y: 1.051342}
+  capsuleDirection: 0
+  abilities:
+  - {fileID: 11400000, guid: 63076b295b5bb3645832246815684986, type: 2}
+  iconUI: {fileID: 22100000, guid: b304690e540998f4ebd53bc0dd25124b, type: 2}
+  setSizeIcon:
+    needSetSizeCanvasIcon: 1
+    size: {x: 250, y: 250}
+    x: -108.5
+    y: -173.8
+    needSetSizeHealthBarMini: 0
+    healthy: 0
+  setSFX:
+    walk_Clip: {fileID: 8300000, guid: d6666e87aec41c0449b83f86a20f0c9a, type: 3}
+    run_Clip: {fileID: 8300000, guid: 50852db1eb2ec7244968deb6259c6dbe, type: 3}
+    death_Clip: {fileID: 8300000, guid: e2f18206f85dd8c4b82e17dcb2595046, type: 3}
+    hurt_Clip: {fileID: 8300000, guid: 88e273825c27fc7498f7774cce6a0ad5, type: 3}
+  idCharacter: 24

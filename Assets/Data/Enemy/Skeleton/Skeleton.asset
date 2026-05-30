@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fa22d1462426414ba324a2fa10987a4, type: 3}
+  m_Name: Skeleton
+  m_EditorClassIdentifier: Assembly-CSharp::EnemySO
+  animator: {fileID: 22100000, guid: 921c0f47f245eeb49b515291e2684c38, type: 2}
+  enemyPrefab: {fileID: 3309604040446623876, guid: bf3472c92418da44288511f28566624a, type: 3}
+  speedMove: 3
+  speedRun: 5
+  detectionRadius: 7
+  maxHealth: 55
+  stoppingDistance: 0.5
+  abilities: {fileID: 11400000, guid: 83b3560de8fecbc48a642051864a0cae, type: 2}
+  colliderOffset: {x: 0, y: -0.06}
+  colliderSize: {x: 0.38, y: 0.93}
+  capsuleDirection: 0
+  enemyName: 4
+  bottle: 8
+  boss: 0
+  setSFXEnemy:
+    walk_Clip: {fileID: 8300000, guid: e9f4231e4d76155448176472f2e56dd6, type: 3}
+    run_Clip: {fileID: 8300000, guid: 5e9f3c137b3a9a0499f927749757e7c0, type: 3}
+    death_Clip: {fileID: 8300000, guid: 3e61e3fb3ff5c7a4bb69dd81b8adece2, type: 3}
+    hurt_Clip: {fileID: 8300000, guid: 8a988de774300954d925379a52166b2e, type: 3}

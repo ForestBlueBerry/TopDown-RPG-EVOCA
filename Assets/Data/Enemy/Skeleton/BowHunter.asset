@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e204f8f9c6e2314b8b0ca4abfaba269, type: 3}
+  m_Name: BowHunter
+  m_EditorClassIdentifier: Assembly-CSharp::AbLittleDemonFireBall
+  nameAbility: 
+  cooldown: 1
+  distanceBeforeAttack: 3
+  attackDurationStun: 0
+  offset: 0.5
+  range: 5
+  speed: 5
+  damage: 7
+  setAbilitySFXEnemy:
+    attackLaunch_Clip: {fileID: 8300000, guid: a5687c7b99e0abc4da6ccfa80e55f679, type: 3}
+    attackImpact_Clip: {fileID: 8300000, guid: 6c8c1583a70cc0d438f695c872240c6e, type: 3}
+    attackLoop_Clip: {fileID: 0}
+  projectile: {fileID: 445770563665363985, guid: a6951579569096f4cbad805805272215, type: 3}

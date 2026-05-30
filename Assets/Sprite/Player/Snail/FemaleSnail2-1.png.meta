@@ -1,0 +1,2591 @@
+fileFormatVersion: 2
+guid: e6e58a04e12334842989bc31bb85f769
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3489497991354500762
+    second: FemaleSnail2-1_0
+  - first:
+      213: 82022383248310404
+    second: FemaleSnail2-1_1
+  - first:
+      213: 8353388189124611890
+    second: FemaleSnail2-1_2
+  - first:
+      213: 1415671465108341150
+    second: FemaleSnail2-1_3
+  - first:
+      213: 4983380572896426028
+    second: FemaleSnail2-1_4
+  - first:
+      213: -6367548031517144340
+    second: FemaleSnail2-1_5
+  - first:
+      213: 1614760093109201024
+    second: FemaleSnail2-1_6
+  - first:
+      213: 4625241736545051218
+    second: FemaleSnail2-1_7
+  - first:
+      213: 3787312931139305016
+    second: FemaleSnail2-1_8
+  - first:
+      213: -5810549330503274354
+    second: FemaleSnail2-1_9
+  - first:
+      213: 4555049678979878793
+    second: FemaleSnail2-1_10
+  - first:
+      213: 8656768079556194128
+    second: FemaleSnail2-1_11
+  - first:
+      213: -3028400399978746548
+    second: FemaleSnail2-1_12
+  - first:
+      213: -1401346701684997469
+    second: FemaleSnail2-1_13
+  - first:
+      213: -299022318482264940
+    second: FemaleSnail2-1_14
+  - first:
+      213: -1695930098737872965
+    second: FemaleSnail2-1_15
+  - first:
+      213: 5657449421820162080
+    second: FemaleSnail2-1_16
+  - first:
+      213: 4317732980828859381
+    second: FemaleSnail2-1_17
+  - first:
+      213: 940483455398298554
+    second: FemaleSnail2-1_18
+  - first:
+      213: 8457660065806618683
+    second: FemaleSnail2-1_19
+  - first:
+      213: -6630776753454960978
+    second: FemaleSnail2-1_20
+  - first:
+      213: 8934147963453496221
+    second: FemaleSnail2-1_21
+  - first:
+      213: -1608273393335285572
+    second: FemaleSnail2-1_22
+  - first:
+      213: 8609851236198710301
+    second: FemaleSnail2-1_23
+  - first:
+      213: -8001878573646189623
+    second: FemaleSnail2-1_24
+  - first:
+      213: -8573074568042261372
+    second: FemaleSnail2-1_25
+  - first:
+      213: 3279451027187659869
+    second: FemaleSnail2-1_26
+  - first:
+      213: -6707701508222956095
+    second: FemaleSnail2-1_27
+  - first:
+      213: -4203073828882973404
+    second: FemaleSnail2-1_28
+  - first:
+      213: 4846482261573233379
+    second: FemaleSnail2-1_29
+  - first:
+      213: 3752824959228638044
+    second: FemaleSnail2-1_30
+  - first:
+      213: -2648362815674555549
+    second: FemaleSnail2-1_31
+  - first:
+      213: -8883543181380586388
+    second: FemaleSnail2-1_32
+  - first:
+      213: -3810495439834260664
+    second: FemaleSnail2-1_33
+  - first:
+      213: -3946039755725491311
+    second: FemaleSnail2-1_34
+  - first:
+      213: 5416583158921793625
+    second: FemaleSnail2-1_35
+  - first:
+      213: -6300972932954632003
+    second: FemaleSnail2-1_36
+  - first:
+      213: 2173856564731561876
+    second: FemaleSnail2-1_37
+  - first:
+      213: 7298796456192065167
+    second: FemaleSnail2-1_38
+  - first:
+      213: 2689310406050624417
+    second: FemaleSnail2-1_39
+  - first:
+      213: -4132315435628467055
+    second: FemaleSnail2-1_40
+  - first:
+      213: 2612262080470971547
+    second: FemaleSnail2-1_41
+  - first:
+      213: 6900923414928511536
+    second: FemaleSnail2-1_42
+  - first:
+      213: 7506861735375937456
+    second: FemaleSnail2-1_43
+  - first:
+      213: 5422102543603368834
+    second: FemaleSnail2-1_44
+  - first:
+      213: 2604428528072010387
+    second: FemaleSnail2-1_45
+  - first:
+      213: 703720450172882219
+    second: FemaleSnail2-1_46
+  - first:
+      213: 8114501946632953289
+    second: FemaleSnail2-1_47
+  - first:
+      213: 5879725751367478398
+    second: FemaleSnail2-1_48
+  - first:
+      213: -2787429691872573203
+    second: FemaleSnail2-1_49
+  - first:
+      213: 8575345065780034316
+    second: FemaleSnail2-1_50
+  - first:
+      213: 8750212285981137311
+    second: FemaleSnail2-1_51
+  - first:
+      213: -5422604306572824993
+    second: FemaleSnail2-1_52
+  - first:
+      213: -8819155253140351879
+    second: FemaleSnail2-1_53
+  - first:
+      213: -5831563061649584885
+    second: FemaleSnail2-1_54
+  - first:
+      213: 8395993163956991131
+    second: FemaleSnail2-1_55
+  - first:
+      213: -3338187025458833410
+    second: FemaleSnail2-1_56
+  - first:
+      213: -4913589373049506148
+    second: FemaleSnail2-1_57
+  - first:
+      213: 6242642516719223735
+    second: FemaleSnail2-1_58
+  - first:
+      213: 9033695169508219197
+    second: FemaleSnail2-1_59
+  - first:
+      213: 8800054070665048016
+    second: FemaleSnail2-1_60
+  - first:
+      213: 2569118780764150893
+    second: FemaleSnail2-1_61
+  - first:
+      213: 799371525734977708
+    second: FemaleSnail2-1_62
+  - first:
+      213: 6658941814206892561
+    second: FemaleSnail2-1_63
+  - first:
+      213: -3628459811962397762
+    second: FemaleSnail2-1_64
+  - first:
+      213: 5052747578690985583
+    second: FemaleSnail2-1_65
+  - first:
+      213: 6945983241303133847
+    second: FemaleSnail2-1_66
+  - first:
+      213: 6408281543850611436
+    second: FemaleSnail2-1_67
+  - first:
+      213: 7103643698018015287
+    second: FemaleSnail2-1_68
+  - first:
+      213: -901680173230164952
+    second: FemaleSnail2-1_69
+  - first:
+      213: 8109059410367063191
+    second: FemaleSnail2-1_70
+  - first:
+      213: -2924935677211788238
+    second: FemaleSnail2-1_71
+  - first:
+      213: 2537526149049906950
+    second: FemaleSnail2-1_72
+  - first:
+      213: -8527203978437799850
+    second: FemaleSnail2-1_73
+  - first:
+      213: 4171541377771720070
+    second: FemaleSnail2-1_74
+  - first:
+      213: 5760555625963073793
+    second: FemaleSnail2-1_75
+  - first:
+      213: -542130792441225802
+    second: FemaleSnail2-1_76
+  - first:
+      213: 6236306045293970785
+    second: FemaleSnail2-1_77
+  - first:
+      213: 5573199538700148912
+    second: FemaleSnail2-1_78
+  - first:
+      213: 8722577979483400721
+    second: FemaleSnail2-1_79
+  - first:
+      213: -2010345417550345864
+    second: FemaleSnail2-1_80
+  - first:
+      213: 4679693104776124227
+    second: FemaleSnail2-1_81
+  - first:
+      213: -7552329346243503362
+    second: FemaleSnail2-1_82
+  - first:
+      213: -6180278818760152254
+    second: FemaleSnail2-1_83
+  - first:
+      213: -3181862805475749790
+    second: FemaleSnail2-1_84
+  - first:
+      213: -7851075467116878350
+    second: FemaleSnail2-1_85
+  - first:
+      213: -889738222168353488
+    second: FemaleSnail2-1_86
+  - first:
+      213: 155328178481242750
+    second: FemaleSnail2-1_87
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 56
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FemaleSnail2-1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66930e4a010d29fc0800000000000000
+      internalID: -3489497991354500762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 392
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48085294ce6632100800000000000000
+      internalID: 82022383248310404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 392
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f47b3cc423de370800000000000000
+      internalID: 8353388189124611890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 392
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91807c62b975a310800000000000000
+      internalID: 1415671465108341150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 392
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28f21c5a36882540800000000000000
+      internalID: 4983380572896426028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 392
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceace235dcce1a7a0800000000000000
+      internalID: -6367548031517144340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 392
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0882043dfb7c86610800000000000000
+      internalID: 1614760093109201024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 392
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25224139ad8203040800000000000000
+      internalID: 4625241736545051218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 392
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e3dc97b0d3f8430800000000000000
+      internalID: 3787312931139305016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 392
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80f7756b28cc5fa0800000000000000
+      internalID: -5810549330503274354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 392
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f4ad1ac89c63f30800000000000000
+      internalID: 4555049678979878793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 392
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f23ece3b4032870800000000000000
+      internalID: 8656768079556194128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4dad91a1e5f8f5d0800000000000000
+      internalID: -3028400399978746548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a286e6799a6d8ce0800000000000000
+      internalID: -1401346701684997469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c63fe19c8a9dbf0800000000000000
+      internalID: -299022318482264940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbff5d48f88d678e0800000000000000
+      internalID: -1695930098737872965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0207452564c438e40800000000000000
+      internalID: 5657449421820162080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbea4d054babeb30800000000000000
+      internalID: 4317732980828859381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3c52448b44d0d00800000000000000
+      internalID: 940483455398298554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30196de405af5570800000000000000
+      internalID: 8457660065806618683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 336
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae26619cafbaf3a0800000000000000
+      internalID: -6630776753454960978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_21
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 336
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bdc64dc387cfb70800000000000000
+      internalID: 8934147963453496221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 336
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8c988aed34ea9e0800000000000000
+      internalID: -1608273393335285572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_23
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 336
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cf49615165c7770800000000000000
+      internalID: 8609851236198710301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb620245dd93f090800000000000000
+      internalID: -8001878573646189623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 280
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484d7ea3a12560980800000000000000
+      internalID: -8573074568042261372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 280
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d547fcd7553f28d20800000000000000
+      internalID: 3279451027187659869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 280
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdc407640579e2a0800000000000000
+      internalID: -6707701508222956095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 280
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d70b81f9eaba5c0800000000000000
+      internalID: -4203073828882973404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 280
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eaed4b60f9224340800000000000000
+      internalID: 4846482261573233379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 280
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53fa07ca66b41430800000000000000
+      internalID: 3752824959228638044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_31
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 280
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3636d5ffc002f3bd0800000000000000
+      internalID: -2648362815674555549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 280
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6477f62b8057b480800000000000000
+      internalID: -8883543181380586388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_33
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 280
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bde6a16966e1bc0800000000000000
+      internalID: -3810495439834260664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_34
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 280
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193b96acfb9dc39c0800000000000000
+      internalID: -3946039755725491311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_35
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 280
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95095eb4fa19b2b40800000000000000
+      internalID: 5416583158921793625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db053ef50827e88a0800000000000000
+      internalID: -6300972932954632003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_37
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497c97d27071b2e10800000000000000
+      internalID: 2173856564731561876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e353bc4b88a4560800000000000000
+      internalID: 7298796456192065167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3b863d099525520800000000000000
+      internalID: 2689310406050624417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c6087510117a6c0800000000000000
+      internalID: -4132315435628467055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 224
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94f1b6958e904420800000000000000
+      internalID: 2612262080470971547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_42
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0325df0884105cf50800000000000000
+      internalID: 6900923414928511536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_43
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 224
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf1e0ba9fabd2860800000000000000
+      internalID: 7506861735375937456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283883f298d2f3b40800000000000000
+      internalID: 5422102543603368834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_45
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 224
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a20aa82f9c42420800000000000000
+      internalID: 2604428528072010387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d8bbd550e14c900800000000000000
+      internalID: 703720450172882219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_47
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 224
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdd54a27808c9070800000000000000
+      internalID: 8114501946632953289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ca9f23b6bf89150800000000000000
+      internalID: 5879725751367478398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 168
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de80f83b67f0159d0800000000000000
+      internalID: -2787429691872573203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 168
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bb73837eeb10770800000000000000
+      internalID: 8575345065780034316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 168
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f991a27a6bffe6970800000000000000
+      internalID: 8750212285981137311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 168
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e29350d1a0fb4b0800000000000000
+      internalID: -5422604306572824993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 168
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9749c8de5011c9580800000000000000
+      internalID: -8819155253140351879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 168
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d4619da40221fa0800000000000000
+      internalID: -5831563061649584885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_55
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 168
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94b34a7c4f848470800000000000000
+      internalID: 8395993163956991131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 168
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef755b936906ca1d0800000000000000
+      internalID: -3338187025458833410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_57
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 168
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96ff3f9f7c6fcbb0800000000000000
+      internalID: -4913589373049506148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_58
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 168
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3ccc44b4252a650800000000000000
+      internalID: 6242642516719223735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_59
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 168
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3913b3e4e12e5d70800000000000000
+      internalID: 9033695169508219197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df68367d82102a70800000000000000
+      internalID: 8800054070665048016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c5b395be757a320800000000000000
+      internalID: 2569118780764150893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0defada20f71b00800000000000000
+      internalID: 799371525734977708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a0cc7ac40596c50800000000000000
+      internalID: 6658941814206892561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb5332860f15adc0800000000000000
+      internalID: -3628459811962397762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_65
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e5797f627fe1640800000000000000
+      internalID: 5052747578690985583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_66
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 112
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e80b1e4f6156060800000000000000
+      internalID: 6945983241303133847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_67
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 112
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce258e19c1acee850800000000000000
+      internalID: 6408281543850611436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 112
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7385e4f7e46359260800000000000000
+      internalID: 7103643698018015287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_69
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 112
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8247a95e8a69c73f0800000000000000
+      internalID: -901680173230164952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_70
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 112
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794a771f19a298070800000000000000
+      internalID: 8109059410367063191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_71
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 112
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23cbce0af7a8867d0800000000000000
+      internalID: -2924935677211788238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6077262969a173320800000000000000
+      internalID: 2537526149049906950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650dae1292949a980800000000000000
+      internalID: -8527203978437799850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_74
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 56
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d4de308ca44e930800000000000000
+      internalID: 4171541377771720070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_75
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 56
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101386232da91ff40800000000000000
+      internalID: 5760555625963073793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 56
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd5db6aae6f978f0800000000000000
+      internalID: -542130792441225802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_77
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 56
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1654e5c8e4fcb8650800000000000000
+      internalID: 6236306045293970785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_78
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 56
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0e79ec37bf75d40800000000000000
+      internalID: 5573199538700148912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_79
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 56
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11aa0c84572dc0970800000000000000
+      internalID: 8722577979483400721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_80
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 56
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879c3177e71d914e0800000000000000
+      internalID: -2010345417550345864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_81
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 56
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3479600b51c91f040800000000000000
+      internalID: 4679693104776124227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_82
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 56
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efad56a397cb03790800000000000000
+      internalID: -7552329346243503362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_83
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 56
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b2eeaa82d3b3aa0800000000000000
+      internalID: -6180278818760152254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260179bf2a0c7d3d0800000000000000
+      internalID: -3181862805475749790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_85
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5e6bd95706b0390800000000000000
+      internalID: -7851075467116878350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035519c0dc307a3f0800000000000000
+      internalID: -889738222168353488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_87
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72abf5c726d72200800000000000000
+      internalID: 155328178481242750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a800cb7f9c7de0409ea08610fd8612e
+      internalID: 914145443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_89
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72cddd4a3a3bb54c80fd292b950d0d1
+      internalID: 2025115762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_90
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f514341a7ba674580f70894e834fdb
+      internalID: -540936510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_91
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea402d84357dc6b4297acf589f176021
+      internalID: -1056675890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375162035e2baee438921a815768a1ce
+      internalID: 572910080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_93
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6886eeb4cd2b54540a67a4c5beb20fa5
+      internalID: -533700823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_94
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7b6f8bc39a6c043a58e7762302d706
+      internalID: 999982496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleSnail2-1_95
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc2cf476fffe894f9f06cb4ffb349c6
+      internalID: -688919065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 714c54b4b632f0246b2a51f32d73c8a6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":48.0,"y":56.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      FemaleSnail2-1_0: -3489497991354500762
+      FemaleSnail2-1_1: 82022383248310404
+      FemaleSnail2-1_10: 4555049678979878793
+      FemaleSnail2-1_11: 8656768079556194128
+      FemaleSnail2-1_12: -3028400399978746548
+      FemaleSnail2-1_13: -1401346701684997469
+      FemaleSnail2-1_14: -299022318482264940
+      FemaleSnail2-1_15: -1695930098737872965
+      FemaleSnail2-1_16: 5657449421820162080
+      FemaleSnail2-1_17: 4317732980828859381
+      FemaleSnail2-1_18: 940483455398298554
+      FemaleSnail2-1_19: 8457660065806618683
+      FemaleSnail2-1_2: 8353388189124611890
+      FemaleSnail2-1_20: -6630776753454960978
+      FemaleSnail2-1_21: 8934147963453496221
+      FemaleSnail2-1_22: -1608273393335285572
+      FemaleSnail2-1_23: 8609851236198710301
+      FemaleSnail2-1_24: -8001878573646189623
+      FemaleSnail2-1_25: -8573074568042261372
+      FemaleSnail2-1_26: 3279451027187659869
+      FemaleSnail2-1_27: -6707701508222956095
+      FemaleSnail2-1_28: -4203073828882973404
+      FemaleSnail2-1_29: 4846482261573233379
+      FemaleSnail2-1_3: 1415671465108341150
+      FemaleSnail2-1_30: 3752824959228638044
+      FemaleSnail2-1_31: -2648362815674555549
+      FemaleSnail2-1_32: -8883543181380586388
+      FemaleSnail2-1_33: -3810495439834260664
+      FemaleSnail2-1_34: -3946039755725491311
+      FemaleSnail2-1_35: 5416583158921793625
+      FemaleSnail2-1_36: -6300972932954632003
+      FemaleSnail2-1_37: 2173856564731561876
+      FemaleSnail2-1_38: 7298796456192065167
+      FemaleSnail2-1_39: 2689310406050624417
+      FemaleSnail2-1_4: 4983380572896426028
+      FemaleSnail2-1_40: -4132315435628467055
+      FemaleSnail2-1_41: 2612262080470971547
+      FemaleSnail2-1_42: 6900923414928511536
+      FemaleSnail2-1_43: 7506861735375937456
+      FemaleSnail2-1_44: 5422102543603368834
+      FemaleSnail2-1_45: 2604428528072010387
+      FemaleSnail2-1_46: 703720450172882219
+      FemaleSnail2-1_47: 8114501946632953289
+      FemaleSnail2-1_48: 5879725751367478398
+      FemaleSnail2-1_49: -2787429691872573203
+      FemaleSnail2-1_5: -6367548031517144340
+      FemaleSnail2-1_50: 8575345065780034316
+      FemaleSnail2-1_51: 8750212285981137311
+      FemaleSnail2-1_52: -5422604306572824993
+      FemaleSnail2-1_53: -8819155253140351879
+      FemaleSnail2-1_54: -5831563061649584885
+      FemaleSnail2-1_55: 8395993163956991131
+      FemaleSnail2-1_56: -3338187025458833410
+      FemaleSnail2-1_57: -4913589373049506148
+      FemaleSnail2-1_58: 6242642516719223735
+      FemaleSnail2-1_59: 9033695169508219197
+      FemaleSnail2-1_6: 1614760093109201024
+      FemaleSnail2-1_60: 8800054070665048016
+      FemaleSnail2-1_61: 2569118780764150893
+      FemaleSnail2-1_62: 799371525734977708
+      FemaleSnail2-1_63: 6658941814206892561
+      FemaleSnail2-1_64: -3628459811962397762
+      FemaleSnail2-1_65: 5052747578690985583
+      FemaleSnail2-1_66: 6945983241303133847
+      FemaleSnail2-1_67: 6408281543850611436
+      FemaleSnail2-1_68: 7103643698018015287
+      FemaleSnail2-1_69: -901680173230164952
+      FemaleSnail2-1_7: 4625241736545051218
+      FemaleSnail2-1_70: 8109059410367063191
+      FemaleSnail2-1_71: -2924935677211788238
+      FemaleSnail2-1_72: 2537526149049906950
+      FemaleSnail2-1_73: -8527203978437799850
+      FemaleSnail2-1_74: 4171541377771720070
+      FemaleSnail2-1_75: 5760555625963073793
+      FemaleSnail2-1_76: -542130792441225802
+      FemaleSnail2-1_77: 6236306045293970785
+      FemaleSnail2-1_78: 5573199538700148912
+      FemaleSnail2-1_79: 8722577979483400721
+      FemaleSnail2-1_8: 3787312931139305016
+      FemaleSnail2-1_80: -2010345417550345864
+      FemaleSnail2-1_81: 4679693104776124227
+      FemaleSnail2-1_82: -7552329346243503362
+      FemaleSnail2-1_83: -6180278818760152254
+      FemaleSnail2-1_84: -3181862805475749790
+      FemaleSnail2-1_85: -7851075467116878350
+      FemaleSnail2-1_86: -889738222168353488
+      FemaleSnail2-1_87: 155328178481242750
+      FemaleSnail2-1_88: 914145443
+      FemaleSnail2-1_89: 2025115762
+      FemaleSnail2-1_9: -5810549330503274354
+      FemaleSnail2-1_90: -540936510
+      FemaleSnail2-1_91: -1056675890
+      FemaleSnail2-1_92: 572910080
+      FemaleSnail2-1_93: -533700823
+      FemaleSnail2-1_94: 999982496
+      FemaleSnail2-1_95: -688919065
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

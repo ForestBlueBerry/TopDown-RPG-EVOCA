@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2d342af07e37b944b6e5170f0c2fc84, type: 3}
+  m_Name: P_Swordsman3
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerSO
+  icon: {fileID: 1848645260731344120, guid: 605d79f7b5d0779498e734768042ac8b, type: 3}
+  runtimeAnimatorController: {fileID: 22100000, guid: d7a91fe07e03e354988847a3e6c6119c, type: 2}
+  speedWalk: 5
+  speedRun: 8
+  maxHealth: 100
+  maxMana: 45
+  colliderOffset: {x: 0.00440979, y: -0.03596687}
+  colliderSize: {x: 0.5501938, y: 0.9593468}
+  capsuleDirection: 0
+  abilities:
+  - {fileID: 11400000, guid: e5b4d98bfefba5a4fbdb07c0936d54d4, type: 2}
+  - {fileID: 11400000, guid: 61792f7b92e764b418cc26194a2b986a, type: 2}
+  - {fileID: 11400000, guid: 82759d21e9418d64d81a025e96ec8958, type: 2}
+  iconUI: {fileID: 22100000, guid: 9fc5643a9cc96b449bfd13d75b6f6995, type: 2}
+  setSizeIcon:
+    needSetSizeCanvasIcon: 1
+    size: {x: 300, y: 300}
+    x: -108.5
+    y: -173.8
+    needSetSizeHealthBarMini: 0
+    healthy: 0
+  setSFX:
+    walk_Clip: {fileID: 8300000, guid: d6666e87aec41c0449b83f86a20f0c9a, type: 3}
+    run_Clip: {fileID: 8300000, guid: 0563802d82cdca64d98bac5d4dbb7d50, type: 3}
+    death_Clip: {fileID: 8300000, guid: fd065c5d2bb0d1c4ca4a2c162b4c4558, type: 3}
+    hurt_Clip: {fileID: 8300000, guid: 18ae6ea884e0475469af67edfbb91a4b, type: 3}
+  idCharacter: 21

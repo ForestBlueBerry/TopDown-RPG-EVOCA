@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2d342af07e37b944b6e5170f0c2fc84, type: 3}
+  m_Name: P_WitchDoctor
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerSO
+  icon: {fileID: -3737438092841335687, guid: 00a7bfded11528f479fddf9d6b195124, type: 3}
+  runtimeAnimatorController: {fileID: 22100000, guid: 4b06d5070959033498d280280fa1a664, type: 2}
+  speedWalk: 6
+  speedRun: 8
+  maxHealth: 100
+  maxMana: 100
+  colliderOffset: {x: -0.001552582, y: -0.02795947}
+  colliderSize: {x: 0.6178818, y: 1.260956}
+  capsuleDirection: 0
+  abilities:
+  - {fileID: 11400000, guid: 916869ccfda42a242adf2b5b62000287, type: 2}
+  - {fileID: 11400000, guid: 02ec9385dca14c14c9ce5812dbb72008, type: 2}
+  - {fileID: 11400000, guid: 67e832fdc93cec74cb944df7c07b0212, type: 2}
+  iconUI: {fileID: 22100000, guid: f97d4a4f7bbb716439f3cc2a0ff6a0d1, type: 2}
+  setSizeIcon:
+    needSetSizeCanvasIcon: 1
+    size: {x: 500, y: 500}
+    x: -108.5
+    y: -173.8
+    needSetSizeHealthBarMini: 0
+    healthy: 0
+  setSFX:
+    walk_Clip: {fileID: 8300000, guid: 379deb00507d1294eb00aabd31f89a43, type: 3}
+    run_Clip: {fileID: 8300000, guid: f51843b6679750a47aa0d8084e20d65a, type: 3}
+    death_Clip: {fileID: 8300000, guid: 4b267baaba3971644a60f781c3cb940f, type: 3}
+    hurt_Clip: {fileID: 8300000, guid: 0cb5f46822c9a9542a0a17310d36c312, type: 3}
+  idCharacter: 25

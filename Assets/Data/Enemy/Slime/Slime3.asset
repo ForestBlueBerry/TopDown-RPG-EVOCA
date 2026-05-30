@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fa22d1462426414ba324a2fa10987a4, type: 3}
+  m_Name: Slime3
+  m_EditorClassIdentifier: Assembly-CSharp::EnemySO
+  animator: {fileID: 22100000, guid: bba0b7a93d894ac41835198eb4ede680, type: 2}
+  enemyPrefab: {fileID: 3309604040446623876, guid: bf3472c92418da44288511f28566624a, type: 3}
+  speedMove: 3.5
+  speedRun: 5
+  detectionRadius: 7
+  maxHealth: 40
+  stoppingDistance: 0.75
+  abilities: {fileID: 11400000, guid: 16733741d385dec40bebbf7d92120ce7, type: 2}
+  colliderOffset: {x: 0, y: 0}
+  colliderSize: {x: 0.6875954, y: 0.6875954}
+  capsuleDirection: 0
+  enemyName: 5
+  bottle: 3
+  boss: 0
+  setSFXEnemy:
+    walk_Clip: {fileID: 8300000, guid: 97f5c21a4704a72439d12790bbb50868, type: 3}
+    run_Clip: {fileID: 8300000, guid: fe622a73f20eebe4989916676181d67f, type: 3}
+    death_Clip: {fileID: 8300000, guid: 708585777894e0f4a990cbdaf8249710, type: 3}
+    hurt_Clip: {fileID: 8300000, guid: aba35f8128e989f418a6e0cbf604e3ae, type: 3}

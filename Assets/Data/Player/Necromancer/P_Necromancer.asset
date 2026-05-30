@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2d342af07e37b944b6e5170f0c2fc84, type: 3}
+  m_Name: P_Necromancer
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerSO
+  icon: {fileID: 8156893281363148727, guid: 240cb238b4d75794db5ec22d6b965a5c, type: 3}
+  runtimeAnimatorController: {fileID: 22100000, guid: 38f068693d2c41345a881c6a96ddc9c0, type: 2}
+  speedWalk: 4
+  speedRun: 8
+  maxHealth: 80
+  maxMana: 111
+  colliderOffset: {x: -0.009778976, y: -0.09684753}
+  colliderSize: {x: 0.5049477, y: 1.193695}
+  capsuleDirection: 0
+  abilities:
+  - {fileID: 11400000, guid: 65dda3c27e49b6641ae26789f0f754a4, type: 2}
+  - {fileID: 11400000, guid: dfcb7e51faf820844b799ef43bc1778c, type: 2}
+  - {fileID: 11400000, guid: 336b2413f7c9ae542a7da261241e57a7, type: 2}
+  iconUI: {fileID: 22100000, guid: 8ffa47ff5bd06e943b5cec86c43322e5, type: 2}
+  setSizeIcon:
+    needSetSizeCanvasIcon: 0
+    size: {x: 0, y: 0}
+    x: 0
+    y: 0
+    needSetSizeHealthBarMini: 0
+    healthy: 0
+  setSFX:
+    walk_Clip: {fileID: 8300000, guid: 4586a2cd42d86cd44a8b7d69fc29c373, type: 3}
+    run_Clip: {fileID: 8300000, guid: 1889b6eed5a1c6943b1f5b52f697c6c2, type: 3}
+    death_Clip: {fileID: 8300000, guid: 0069638d9aab367479ac522b530d5944, type: 3}
+    hurt_Clip: {fileID: 8300000, guid: 18ae6ea884e0475469af67edfbb91a4b, type: 3}
+  idCharacter: 5

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f27cdea8bfd693342a279c8c20946e23, type: 3}
+  m_Name: P_CultistAb2light
+  m_EditorClassIdentifier: Assembly-CSharp::P_WitchDoctorAb3Lightning
+  cooldown: 3
+  damage: 20
+  range: 8
+  speed: 5
+  manaPerAttack: 10
+  offset: 3
+  executeAnimator: 1
+  layerAttack:
+    serializedVersion: 2
+    m_Bits: 256
+  setAbilitySFX:
+    attackLaunch_Clip: {fileID: 8300000, guid: ef944293a7f9b1448a41d8705161b035, type: 3}
+    attackImpact_Clip: {fileID: 8300000, guid: a7ca0235b0633da478990d8150ced30c, type: 3}
+    attackLoop_Clip: {fileID: 8300000, guid: da054afcd442e1646b88e37b73a8e083, type: 3}
+  abilkaPrefab: {fileID: 4216064277868389668, guid: 3608c4a596904fb4e9391886885838af, type: 3}
