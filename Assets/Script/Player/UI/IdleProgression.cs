@@ -43,13 +43,32 @@ public class IdleProgression : MonoBehaviour
             yield return null;
         }
     }
-    public void LoadExpAfterRest(float playtime, float completerewardexp)
+    public void LoadExpAfterRest(string saveTimeString)
     {
-        this.completerewardexp = playtime - completerewardexp;
-        int approveExp = (int)Mathf.Clamp(this.completerewardexp / 40f, 1, 50);
-        expText.text = $"+{approveExp} EXP Rest Reward";
-        PlayerInventory.Instance.GetExp(approveExp);
-        TriggerFade();
+        if (string.IsNullOrEmpty(saveTimeString)) return;
+
+        if (System.DateTime.TryParseExact(saveTimeString, "dd.MM.yyyy HH:mm",
+            System.Globalization.CultureInfo.InvariantCulture,
+            System.Globalization.DateTimeStyles.None, out System.DateTime lastSaveTime))
+        {
+            System.TimeSpan offlineTime = System.DateTime.Now - lastSaveTime;
+            float offlineSeconds = (float)offlineTime.TotalSeconds;
+
+            if (offlineSeconds < 40f)
+            {
+                return;
+            }
+
+            int approveExp = (int)(offlineSeconds / 30f);
+            approveExp = Mathf.Clamp(approveExp, 0, 50);
+
+            if (approveExp > 0)
+            {
+                expText.text = $"+{approveExp} EXP Rest Reward";
+                PlayerInventory.Instance.GetExp(approveExp);
+                TriggerFade();
+            }
+        }
     }
     private void TriggerFade()
     {

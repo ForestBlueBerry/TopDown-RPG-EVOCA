@@ -74,7 +74,7 @@ public class SaveManager : MonoBehaviour
             sessionStartTime = Time.time;
             totalPlayTimeBeforeSession =data.playtime;
          
-            idleProgression.LoadExpAfterRest(data.playtime,data.completerewardexp);
+            idleProgression.LoadExpAfterRest(data.saveTime);
         }
     }
     public void FindSO(int idCharacter)
