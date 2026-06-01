@@ -54,7 +54,7 @@ public class IdleProgression : MonoBehaviour
             System.TimeSpan offlineTime = System.DateTime.Now - lastSaveTime;
             float offlineSeconds = (float)offlineTime.TotalSeconds;
 
-            if (offlineSeconds < 40f)
+            if (offlineSeconds < 30f)
             {
                 return;
             }
