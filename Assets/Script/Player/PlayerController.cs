@@ -26,7 +26,7 @@ public class PlayerController : MonoBehaviour, IKnockbackResistance
     [HideInInspector]
     public bool isWalking = false;
     [HideInInspector]
-    public Action<float>OnSpeedRunUIBook;
+    public Action<string>OnSpeedRunUIBook;
     private PlayerSFX playerSFX;
 
     private bool lastWalking;
@@ -103,7 +103,7 @@ public class PlayerController : MonoBehaviour, IKnockbackResistance
         so = playerSO;
         speedRun = playerSO.speedRun;
         speedWalk = playerSO.speedWalk;
-        OnSpeedRunUIBook.Invoke(speedRun);
+        OnSpeedRunUIBook?.Invoke(speedRun.ToString("F1"));
 
         capsuleCollider.offset = playerSO.colliderOffset;
         capsuleCollider.size = playerSO.colliderSize;
@@ -123,7 +123,7 @@ public class PlayerController : MonoBehaviour, IKnockbackResistance
     public void UpSpeedRun(float speedRun)
     {
         this.speedRun += speedRun;
-        OnSpeedRunUIBook?.Invoke(this.speedRun);
+        OnSpeedRunUIBook?.Invoke(this.speedRun.ToString("F1"));
     }
     private void FrozenTimeScaleSFX()
     {

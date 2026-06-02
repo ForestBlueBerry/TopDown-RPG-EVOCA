@@ -41,7 +41,7 @@ public class BookUI : MonoBehaviour
    
 
     public bool readyToEvo = false;
-    public PlayerController controller;
+ 
 
     public AudioClip flipagesfx;
     public AudioClip buttonsfx;
@@ -72,9 +72,9 @@ public class BookUI : MonoBehaviour
         _canvasIconRect = canvasIcon.GetComponent<RectTransform>();
         FillDictionaryTmpMesh();
         UpdateStorageUI();
-        SetSizeCanvasIconAndMiniBar(controller.so);
+        SetSizeCanvasIconAndMiniBar(playerController.so);
         freshDataSave = FindFirstObjectByType<FreshDataUI>(FindObjectsInactive.Include);
-        
+        UpdateStats();
     }
     public void OnMutationClick(int indexPage)
     {
@@ -234,9 +234,9 @@ public class BookUI : MonoBehaviour
     public void OnUpSpeed()
     {
         ButtonSFX();
-        if (PlayerInventory.Instance.currentExp >= 10f)
+        if (PlayerInventory.Instance.currentExp >= 20f && playerController.speedRun <=15f)
         {
-            PlayerInventory.Instance.TakeExp(10f);
+            PlayerInventory.Instance.TakeExp(20f);
             playerController.UpSpeedRun(0.4f);
         }
     }
@@ -279,10 +279,16 @@ public class BookUI : MonoBehaviour
             LoadMutationPage(freshDataSave.currentMutationPage);
         }
     }
-   
+    private void UpdateStats()
+    {
+        playerController.UpSpeedRun(0f);
+        playerHealth.UpMAXHp(0f);
+        playerHealth.UpMAXmana(0f);
+        playerAttack.UpDamage(0f);
+        playerAttack.DownCooldown(0f);
+    }
 }
 
-// if I want to change at different elements for evolution I will need change it.
 
 [System.Serializable]
 public struct FillTextMeshElement
